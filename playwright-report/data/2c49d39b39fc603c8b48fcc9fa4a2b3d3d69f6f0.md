@@ -1,0 +1,531 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Skip to main content" [ref=e8] [cursor=pointer]:
+            - /url: "#skip-to-main"
+        - listitem [ref=e9]:
+          - link "Skip to Action Bar" [ref=e10] [cursor=pointer]:
+            - /url: "#actionbar"
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - img [ref=e16]
+          - 'link "Sales: 903-204-7499" [ref=e26] [cursor=pointer]':
+            - /url: tel:9032047499
+          - 'link "| Service: 903-204-7499" [ref=e27] [cursor=pointer]':
+            - /url: tel:9032047499
+        - generic [ref=e28]:
+          - img [ref=e31]
+          - link "1400 W Loop 281, Longview, TX 75604" [ref=e37] [cursor=pointer]:
+            - /url: http://maps.google.com/?q=1400%20W%20Loop%20281%2C%20Longview%2C%20TX%20756
+        - generic [ref=e38]:
+          - img [ref=e41]
+          - generic [ref=e43]:
+            - generic [ref=e44]: "Open Today Sales: 9 AM-7 PM"
+            - generic [ref=e45]: "| Service: 7 AM-6 PM"
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - link [ref=e50] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com
+            - figure [ref=e51]:
+              - img "Toyota Logo" [ref=e52]
+          - link [ref=e54] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com
+            - figure [ref=e55]:
+              - img "Toyota of Longview logo" [ref=e56]
+          - link [ref=e58] [cursor=pointer]:
+            - /url: /toyota-rent-car/
+            - figure [ref=e59]:
+              - img "Toyota Rent a Car logo" [ref=e60]
+          - link [ref=e62] [cursor=pointer]:
+            - /url: /spanish-page/
+            - figure [ref=e63]:
+              - img "tol hablamos espanol" [ref=e64]
+        - navigation [ref=e66]:
+          - list [ref=e67]:
+            - listitem [ref=e68] [cursor=pointer]:
+              - link "Shop Online" [ref=e69]:
+                - /url: /smartpath/
+            - listitem [ref=e70] [cursor=pointer]:
+              - button "Show New" [ref=e71]:
+                - generic [ref=e72]: Show
+                - text: New
+            - listitem [ref=e73] [cursor=pointer]:
+              - button "Show More" [ref=e74]:
+                - generic [ref=e75]: Show
+                - text: More
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - img "profile menu" [ref=e82] [cursor=pointer]
+            - link "my saves" [ref=e87] [cursor=pointer]:
+              - /url: https://smartpath.toyotaoflongview.com/saves?dealerCd=42352&source=t3
+              - img "my saves" [ref=e88]
+          - button "Contact" [ref=e90] [cursor=pointer]
+        - button [ref=e92]:
+          - img [ref=e94]
+    - text: 
+  - generic [ref=e99]:
+    - main [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e105]:
+              - heading "2024 Volkswagen Tiguan 2.0T S Heated Seating & Third Row Seating FWD" [level=1] [ref=e106]
+              - list [ref=e107]:
+                - listitem [ref=e108]: "VIN: 3VVRB7AX4RM208156"
+                - listitem [ref=e109]: "Stock: P4431"
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - button "save vehicle" [ref=e117]:
+                  - img "save vehicle" [ref=e119]
+              - listitem [ref=e121]:
+                - link "Share this 2024 Volkswagen Tiguan 2.0T S Heated Seating & Third Row Seating FWD" [ref=e122] [cursor=pointer]:
+                  - /url: "#shareModal"
+                  - generic [ref=e123]: 
+              - listitem [ref=e124]:
+                - link "Print this 2024 Volkswagen Tiguan 2.0T S Heated Seating & Third Row Seating FWD" [ref=e125] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/inventory/used-2024-volkswagen-tiguan-2-0t-s-heated-seating-third-row-seating-fwd-4d-sport-utility-3vvrb7ax4rm208156/printvdp
+                  - generic [ref=e126]: 
+          - text:   
+        - generic [ref=e128]:
+          - generic [ref=e129] [cursor=pointer]:
+            - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 1" [ref=e133]
+            - button "Previous" [disabled]:
+              - img
+            - button "Next" [ref=e251]:
+              - img [ref=e252]
+            - generic [ref=e255]:
+              - img [ref=e256]
+              - text: (40) Photos
+          - generic [ref=e263]:
+            - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 1" [ref=e266]
+            - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 2" [ref=e269]
+            - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 3" [ref=e272]
+            - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 4" [ref=e275]
+          - generic [ref=e385]:
+            - generic [ref=e387]:
+              - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 1" [ref=e390]
+              - button "Previous" [disabled]:
+                - img
+              - button "Next" [ref=e469] [cursor=pointer]:
+                - img [ref=e470]
+            - generic [ref=e472]:
+              - generic [ref=e473]:
+                - generic [ref=e474]: 1/40
+                - img [ref=e476] [cursor=pointer]
+              - generic [ref=e479]:
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 1" [ref=e481]
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 2" [ref=e483]
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 3" [ref=e485]
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 4" [ref=e487]
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 5" [ref=e489]
+                - img "Used 2024 Pure White Volkswagen 2.0T S Heated Seating & Third Row Seating image 6" [ref=e491]
+        - generic [ref=e562]:
+          - link "Longview Price $23,500" [ref=e570] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com/inventory/used-2024-volkswagen-tiguan-2-0t-s-heated-seating-third-row-seating-fwd-4d-sport-utility-3vvrb7ax4rm208156/
+            - generic [ref=e571]: Longview Price
+            - generic [ref=e572]: $23,500
+          - generic [ref=e576]: In Stock
+          - generic [ref=e577]:
+            - link "Confirm Availability" [ref=e579] [cursor=pointer]:
+              - /url: https://smartpath.toyotaoflongview.com/inventory/details?dealerCd=42352&source=t3&type=used&vin=3VVRB7AX4RM208156&availability=true
+            - link "See Payment Options" [ref=e581] [cursor=pointer]:
+              - /url: https://smartpath.toyotaoflongview.com/inventory/details?dealerCd=42352&source=t3&type=used&vin=3VVRB7AX4RM208156
+            - link "Value Your Trade" [ref=e583] [cursor=pointer]:
+              - /url: https://smartpath.toyotaoflongview.com/inventory/details?dealerCd=42352&source=t3&type=used&vin=3VVRB7AX4RM208156&trade=true
+            - button "VIP Test Drive" [ref=e588] [cursor=pointer]
+      - generic [ref=e589]:
+        - paragraph [ref=e594]:
+          - iframe [ref=e595]:
+            - generic [active] [ref=f1e1]:
+              - generic [ref=f1e3]:
+                - generic [ref=f1e4]:
+                  - text: Get Your Blue Book
+                  - superscript [ref=f1e5]: ®
+                  - text: Value
+                - img "Kelley Blue Book logo" [ref=f1e6]
+              - generic [ref=f1e9]:
+                - generic [ref=f1e11]:
+                  - generic [ref=f1e12]: Which car are you trading in?
+                  - text: (All fields are required)
+                - generic [ref=f1e13]:
+                  - generic [ref=f1e14]:
+                    - combobox [ref=f1e15]:
+                      - option "Select Year" [selected]
+                      - option "2026"
+                      - option "2025"
+                      - option "2024"
+                      - option "2023"
+                      - option "2022"
+                      - option "2021"
+                      - option "2020"
+                      - option "2019"
+                      - option "2018"
+                      - option "2017"
+                      - option "2016"
+                      - option "2015"
+                      - option "2014"
+                      - option "2013"
+                      - option "2012"
+                      - option "2011"
+                      - option "2010"
+                      - option "2009"
+                      - option "2008"
+                      - option "2007"
+                      - option "2006"
+                      - option "2005"
+                      - option "2004"
+                      - option "2003"
+                      - option "2002"
+                      - option "2001"
+                      - option "2000"
+                      - option "1999"
+                      - option "1998"
+                      - option "1997"
+                      - option "1996"
+                      - option "1995"
+                      - option "1994"
+                      - option "1993"
+                      - option "1992"
+                    - combobox [disabled] [ref=f1e16]:
+                      - option "Select Brand" [selected]
+                    - combobox [disabled] [ref=f1e17]:
+                      - option "Select Model" [selected]
+                    - combobox [disabled] [ref=f1e18]:
+                      - option "Select Style" [selected]
+                  - generic [ref=f1e19]:
+                    - combobox [disabled] [ref=f1e20]:
+                      - option "Select Engine" [selected]
+                    - combobox [disabled] [ref=f1e21]:
+                      - option "Select Transmission" [selected]
+                    - combobox [disabled] [ref=f1e22]:
+                      - option "Select Drivetrain" [selected]
+                    - generic [ref=f1e23]:
+                      - spinbutton [disabled] [ref=f1e24]
+                      - spinbutton [disabled] [ref=f1e25]
+                - generic [ref=f1e28]:
+                  - button "Next" [disabled] [ref=f1e29]
+                  - paragraph [ref=f1e30]: This service is provided by Kelley Blue Book in association with Toyota of Longview.
+                  - link "Privacy Policy" [ref=f1e31] [cursor=pointer]:
+                    - /url: /standalone/privacy?ProfileId=a0477b0e-53d3-49d4-b56a-0b82370713cd&IsMobile=False&CurrentCulture=en-US&TaskId=bea279f6-ff88-43cc-8f78-7feec1c00a91&VisitCount=1&UseFancyDropDown=False&DealerCode=42352
+        - img "Powertrain Pledge" [ref=e601]
+        - generic [ref=e604]:
+          - heading "Basic Info" [level=2] [ref=e605]
+          - list [ref=e609]:
+            - listitem [ref=e610]:
+              - generic [ref=e611]: "Exterior:"
+              - generic [ref=e612]: Pure White
+            - listitem [ref=e613]:
+              - generic [ref=e614]: "Drivetrain:"
+              - generic [ref=e615]: FWD
+            - listitem [ref=e616]:
+              - generic [ref=e617]: "Interior:"
+              - generic [ref=e618]: Titan Black
+            - listitem [ref=e619]:
+              - generic [ref=e620]: "Transmission:"
+              - generic [ref=e621]: 8-Speed Automatic with Tiptronic
+            - listitem [ref=e622]:
+              - generic [ref=e623]: "Engine:"
+              - generic [ref=e624]: 2.0L TSI DOHC
+            - listitem [ref=e625]:
+              - generic [ref=e626]: "Fuel Efficiency:"
+              - generic [ref=e627]: 23 CITY / 30 HWY
+            - listitem [ref=e628]:
+              - generic [ref=e629]: "Mileage:"
+              - generic [ref=e630]: 19,887
+        - generic [ref=e633]:
+          - heading "Key Features" [level=2] [ref=e634]
+          - list [ref=e637]:
+            - listitem [ref=e638]:
+              - img [ref=e639]
+              - generic [ref=e662]: 3rd Row Seat
+            - listitem [ref=e663]:
+              - img [ref=e664]
+              - generic [ref=e668]: Backup Camera
+            - listitem [ref=e669]:
+              - img [ref=e670]
+              - generic [ref=e676]: Heated Seats
+            - listitem [ref=e677]:
+              - img [ref=e678]
+              - generic [ref=e680]: Keyless Entry
+            - listitem [ref=e681]:
+              - img [ref=e682]
+              - generic [ref=e687]: Rain Sensing Wipers
+        - generic [ref=e691]:
+          - link "Schedule Test Drive" [ref=e693] [cursor=pointer]:
+            - /url: "#modal__gform_7"
+            - generic [ref=e694]: Schedule Test Drive
+          - link "Check Availability" [ref=e696] [cursor=pointer]:
+            - /url: "#modal__gform_10"
+            - generic [ref=e697]: Check Availability
+        - generic [ref=e700]:
+          - heading "History Report" [level=2] [ref=e702]
+          - link "Show me the Carfax" [ref=e704] [cursor=pointer]:
+            - /url: https://www.carfax.com/vehiclehistory/ar20/jTJDrGqORKkFfw2oQyD8W9fMsz0pMfAPB03RGGjNHMS5XwWEOpSOJEH2IOHHTNsvuUXKUSvtIifgy-ezyzOYluHSNsxQbb0Xppk
+            - img "Show me the Carfax" [ref=e705]
+        - generic [ref=e708]:
+          - heading "Description" [level=2] [ref=e709]
+          - generic [ref=e711]:
+            - text: "This CERTIFIED and ONE-OWNER 2024 VW Tiguan 2.0T S with the HEATED SEATING and THIRD ROW SEATING also has the SMART KEY SYSTEM and is nicely equipped with the 3-Row Carpeted MojoMats, 3rd row seats: bench, 6 Speakers, Air Conditioning, Brake assist, Cloth Seating Surfaces, Compass, Delay-off headlights, Electronic Stability Control, Emergency communication system: VW Car-Net Safe & Secure 5-year, Exterior Parking Camera Rear, Front anti-roll bar, Front Bucket Seats, Fully automatic headlights, Heated door mirrors, Heated Front Seats, Illuminated entry, Infotainment Upgrade, Leather Shift Knob, Low tire pressure warning, Outside temperature display, Overhead console, Panic alarm, Power door mirrors, Power windows, Radio data system, Radio: MIB3 Composition Media AM/FM/HD, Rain sensing wipers, Rear anti-roll bar, Rear View Camera System w/Dynamic Guidelines, Rear window wiper, Remote keyless entry, Speed control, Split folding rear seat, Spoiler, Steering wheel mounted audio controls, Tachometer, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Turn signal indicator mirrors, Variably intermittent wipers, Wheels: 17\" 2-Tone Machined Twin 5-Spoke Alloy. Clean CARFAX. 2024 Volkswagen Tiguan Recent Arrival! Certified."
+            - text: The Powertrain Pledge Certified standards apply from the time we acquire the vehicle through to the final sale. Prior to the Rigorous Powertrain Pledge 106-point inspection every Toyota of Longview Certified Vehicle goes through, a CARFAX vehicle history report is reviewed to ensure that only the best of the best vehicles receive our Powertrain Pledge Certified Seal of approval. You get a 100,000-mile Limited Powertrain Warranty* plus Roadside Assistance up to 100,000 miles, honored at All Toyota Dealers in the U.S. And ASE Certified Independent Service Centers. See Dealer for Warranty Details.
+            - text: You can buy a Pre-Owned vehicle from anyone. Or you can buy a Toyota of Longview Pre-Owned vehicle that has undergone a RIGOROUS MULTI-POINT inspection. The choice isn't just easy, it's a MUST SEE. Competitive Interest Rates for qualified buyers. Free Carfax Report with every purchase and a FREE 15 Minute Appraisal, All Toyota of Longview vehicles MUST PASS a Multi Point Quality Inspection by one of our Certified Technicians or it never makes it on our lot. We sell in quantity and OFFER COMPETATIVE PRICES on an EXCELLENT SELECTION of Hand Picked vehicles from all over the Country, only THE QUALIFIED pass our rigorous inspection process so you can buy with confidence. All Toyota of Longview vehicles are researched in detail, which means we use real-time data and Internet price comparisons to ensure you get a COMPETITIVE PRICE the FIRST TIME. In most cases we offer MORE VEHICLE with MORE EQUIPMENT at a competitors similar price. Call, text or come by and ask for Mickey Ortiz, Pre-Owned Manager to schedule a hassle free test drive. We offer FREE 15 minute appraisals. We accept ALL TRADE-INS no matter what the mileage or condition. More Pictures available at Toyota of Longview.com.
+        - generic [ref=e714]:
+          - heading "Vehicle Details" [level=2] [ref=e715]
+          - generic [ref=e718] [cursor=pointer]:
+            - generic [ref=e719]:
+              - heading "Details" [level=3] [ref=e720]:
+                - img [ref=e721]
+                - text: Details
+              - generic [ref=e723]: 
+            - list [ref=e725]:
+              - listitem [ref=e726]: Infotainment Upgrade
+              - listitem [ref=e727]: 6 Speakers
+              - listitem [ref=e728]: AM/FM radio
+              - listitem [ref=e729]: Radio data system
+              - listitem [ref=e730]: "Radio: MIB3 Composition Media AM/FM/HD"
+              - listitem [ref=e731]: Air Conditioning
+              - listitem [ref=e732]: Rear window defroster
+              - listitem [ref=e733]: Power steering
+              - listitem [ref=e734]: Power windows
+              - listitem [ref=e735]: Remote keyless entry
+              - listitem [ref=e736]: Steering wheel mounted audio controls
+              - listitem [ref=e737]: 4-Wheel Independent Suspension
+              - listitem [ref=e738]: Four wheel independent suspension
+              - listitem [ref=e739]: Speed-sensing steering
+              - listitem [ref=e740]: Traction control
+              - listitem [ref=e741]: 4-Wheel Disc Brakes
+              - listitem [ref=e742]: ABS brakes
+              - listitem [ref=e743]: Dual front impact airbags
+              - listitem [ref=e744]: Dual front side impact airbags
+              - listitem [ref=e745]: "Emergency communication system: VW Car-Net Safe & Secure 5-year"
+              - listitem [ref=e746]: Front anti-roll bar
+              - listitem [ref=e747]: Low tire pressure warning
+              - listitem [ref=e748]: Occupant sensing airbag
+              - listitem [ref=e749]: Overhead airbag
+              - listitem [ref=e750]: Rear anti-roll bar
+              - listitem [ref=e751]: Brake assist
+              - listitem [ref=e752]: Electronic Stability Control
+              - listitem [ref=e753]: Exterior Parking Camera Rear
+              - listitem [ref=e754]: Delay-off headlights
+              - listitem [ref=e755]: Fully automatic headlights
+              - listitem [ref=e756]: Panic alarm
+              - listitem [ref=e757]: Speed control
+              - listitem [ref=e758]: "Bumpers: body-color"
+              - listitem [ref=e759]: Heated door mirrors
+              - listitem [ref=e760]: Power door mirrors
+              - listitem [ref=e761]: Spoiler
+              - listitem [ref=e762]: Turn signal indicator mirrors
+              - listitem [ref=e763]: 3-Row Carpeted MojoMats (Set of 5)
+              - listitem [ref=e764]: 3-Row Rubber Monster Mats Kit (Set of 5)
+              - listitem [ref=e765]: Compass
+              - listitem [ref=e766]: Driver door bin
+              - listitem [ref=e767]: Driver vanity mirror
+              - listitem [ref=e768]: Front reading lights
+              - listitem [ref=e769]: Illuminated entry
+              - listitem [ref=e770]: Leather Shift Knob
+              - listitem [ref=e771]: Outside temperature display
+              - listitem [ref=e772]: Overhead console
+              - listitem [ref=e773]: Passenger vanity mirror
+              - listitem [ref=e774]: Rear reading lights
+              - listitem [ref=e775]: Rear seat center armrest
+              - listitem [ref=e776]: Rear View Camera System w/Dynamic Guidelines
+              - listitem [ref=e777]: Tachometer
+              - listitem [ref=e778]: Telescoping steering wheel
+              - listitem [ref=e779]: Tilt steering wheel
+              - listitem [ref=e780]: Trip computer
+              - listitem [ref=e781]: "3rd row seats: bench"
+              - listitem [ref=e782]: Cloth Seating Surfaces
+              - listitem [ref=e783]: Front Bucket Seats
+              - listitem [ref=e784]: Front Center Armrest
+              - listitem [ref=e785]: Heated Front Seats
+              - listitem [ref=e786]: Heated front seats
+              - listitem [ref=e787]: Split folding rear seat
+              - listitem [ref=e788]: Passenger door bin
+              - listitem [ref=e789]: Alloy wheels
+              - listitem [ref=e790]: "Wheels: 17\" 2-Tone Machined Twin 5-Spoke Alloy"
+              - listitem [ref=e791]: Rain sensing wipers
+              - listitem [ref=e792]: Rear window wiper
+              - listitem [ref=e793]: Variably intermittent wipers
+              - listitem [ref=e794]: 3.33 Axle Ratio
+              - listitem [ref=e795]: Our Toyota Certified process keeps you in mind every step of the way. The TCUV standards apply from
+        - generic [ref=e798]:
+          - heading "Other Vehicles You May Like" [level=2] [ref=e799]
+          - generic [ref=e800]:
+            - generic [ref=e801]:
+              - link "2022 Acura MDX Type S w/Advance Package" [ref=e802] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2022-acura-mdx-type-s-wadvance-package-awd-4d-sport-utility-5j8yd8h81nl003044/
+                - img "2022 Acura MDX Type S w/Advance Package"
+              - link "2022 Acura MDX Type S w/Advance Package $42,500" [ref=e804] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2022-acura-mdx-type-s-wadvance-package-awd-4d-sport-utility-5j8yd8h81nl003044/
+                - heading "2022 Acura MDX Type S w/Advance Package" [level=3] [ref=e805]
+                - paragraph [ref=e806]: $42,500
+            - generic [ref=e807]:
+              - link "2026 Toyota Tundra Limited 4x4 Heated/Vented Leather & Navigation" [ref=e808] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2026-toyota-tundra-limited-4x4-heatedvented-leather-navigation-4wd-4d-crewmax-5tfja5db8tx356699/
+                - img "2026 Toyota Tundra Limited 4x4 Heated/Vented Leather & Navigation"
+              - link "2026 Toyota Tundra Limited 4x4 Heated/Vented Leather & Navigation $62,900" [ref=e810] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2026-toyota-tundra-limited-4x4-heatedvented-leather-navigation-4wd-4d-crewmax-5tfja5db8tx356699/
+                - heading "2026 Toyota Tundra Limited 4x4 Heated/Vented Leather & Navigation" [level=3] [ref=e811]
+                - paragraph [ref=e812]: $62,900
+            - generic [ref=e813]:
+              - link "2024 Toyota Highlander LE" [ref=e814] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2024-toyota-highlander-le-awd-4d-sport-utility-5tdkdrbh4rs539834/
+                - img "2024 Toyota Highlander LE"
+              - link "2024 Toyota Highlander LE $33,900" [ref=e816] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/inventory/used-2024-toyota-highlander-le-awd-4d-sport-utility-5tdkdrbh4rs539834/
+                - heading "2024 Toyota Highlander LE" [level=3] [ref=e817]
+                - paragraph [ref=e818]: $33,900
+        - generic [ref=e823]:
+          - generic [ref=e824]:
+            - generic [ref=e825]:
+              - heading "Get Directions" [level=2] [ref=e826]
+              - textbox "Enter starting address" [ref=e827]
+              - paragraph [ref=e828]: Please enter an address
+              - paragraph [ref=e829]: to 1400 W Loop 281 - Longview, TX 75604
+            - link "Get Directions" [ref=e830] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=e831]:
+            - generic [ref=e832]:
+              - heading "Contact Us" [level=2] [ref=e833]
+              - link " (903) 204-7499" [ref=e834] [cursor=pointer]:
+                - /url: tel:+19032047499
+                - generic [ref=e835]: 
+                - text: (903) 204-7499
+              - link " internet@toyotaoflongview.com" [ref=e836] [cursor=pointer]:
+                - /url: "#modal__gform_3"
+                - generic [ref=e837]: 
+                - text: internet@toyotaoflongview.com
+            - link "Message Us" [ref=e838] [cursor=pointer]:
+              - /url: "#modal__gform_3"
+        - generic [ref=e842]:
+          - paragraph [ref=e843]:
+            - strong [ref=e844]: "Disclaimer:"
+          - paragraph [ref=e845]: The inventory listed does not reflect hundreds of vehicles that are in route or can be ordered. For full inventory availability CALL US TODAY! (903) 204-7499.
+          - paragraph [ref=e846]: All prices plus Tax, Title, License and $225 doc fee.
+          - paragraph [ref=e847]: Images of vehicles are for illustration purposes only.
+    - contentinfo [ref=e849]:
+      - generic [ref=e852]:
+        - heading "Connect with us." [level=2] [ref=e854]
+        - generic [ref=e856]:
+          - link "facebook" [ref=e857] [cursor=pointer]:
+            - /url: https://www.facebook.com/toyotaoflongview/
+            - img [ref=e858]
+          - link "X" [ref=e860] [cursor=pointer]:
+            - /url: https://twitter.com/ToyotaLongview
+            - img [ref=e861]
+          - link "instagram" [ref=e863] [cursor=pointer]:
+            - /url: https://www.instagram.com/toyotalongview/?hl=en
+            - img [ref=e864]
+      - generic [ref=e871]:
+        - generic [ref=e872]:
+          - generic [ref=e873]:
+            - heading "Inventory" [level=3] [ref=e874]
+            - list [ref=e877]:
+              - listitem [ref=e878]:
+                - link "New Vehicles" [ref=e879] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/new-vehicles/
+              - listitem [ref=e880]:
+                - link "Pre-Owned Vehicles" [ref=e881] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/used-vehicles/
+              - listitem [ref=e882]:
+                - link "Toyota Certified Used Vehicles" [ref=e883] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/used-vehicles/certified-pre-owned-vehicles/
+              - listitem [ref=e884]:
+                - link "New Vehicle Specials" [ref=e885] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/new-vehicles/new-vehicle-specials/
+              - listitem [ref=e886]:
+                - link "Pre-Owned Vehicle Specials" [ref=e887] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/used-vehicles/pre-owned-vehicle-specials/
+          - generic [ref=e888]:
+            - heading "Quick Links" [level=3] [ref=e889]
+            - list [ref=e892]:
+              - listitem [ref=e893]:
+                - link "Apply for Financing" [ref=e894] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/finance/apply-for-financing/
+              - listitem [ref=e895]:
+                - link "Value Your Trade" [ref=e896] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/value-your-trade/
+              - listitem [ref=e897]:
+                - link "Tire Center" [ref=e898] [cursor=pointer]:
+                  - /url: https://www.toyotatirecenter.com/?uid=DD6F35ED-E82C-48CC-A857CCDBA22E600A
+              - listitem [ref=e899]:
+                - link "Read Our Reviews" [ref=e900] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/about-us/customer-testimonials/
+              - listitem [ref=e901]:
+                - link "Payment Calculator" [ref=e902] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/payment-calculator/
+          - generic [ref=e903]:
+            - heading "Service & Parts" [level=3] [ref=e904]
+            - list [ref=e907]:
+              - listitem [ref=e908]:
+                - link "Schedule Service" [ref=e909] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/service/schedule-service/
+              - listitem [ref=e910]:
+                - link "Service Specials" [ref=e911] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/?page_id=19
+              - listitem [ref=e912]:
+                - link "Parts Center" [ref=e913] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/parts/
+              - listitem [ref=e914]:
+                - link "Order Parts" [ref=e915] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/parts/order-parts/
+          - generic [ref=e916]:
+            - heading "About Us" [level=3] [ref=e917]
+            - list [ref=e920]:
+              - listitem [ref=e921]:
+                - link "Meet Our Staff" [ref=e922] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/about-us/staff/
+              - listitem [ref=e923]:
+                - link "Contact Us" [ref=e924] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/contact-us/
+              - listitem [ref=e925]:
+                - link "About Us" [ref=e926] [cursor=pointer]:
+                  - /url: https://www.toyotaoflongview.com/about-us/
+              - listitem [ref=e927]:
+                - link "Blog" [ref=e928] [cursor=pointer]:
+                  - /url: http://shop.toyotaoflongview.com/
+        - generic [ref=e929]:
+          - link [ref=e931] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com
+            - figure [ref=e932]:
+              - img "Toyota Logo" [ref=e933]
+          - link "Toyota of Longview" [ref=e935] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com
+      - generic [ref=e939]:
+        - paragraph [ref=e941]:
+          - text: Copyright © 2026 -
+          - link "Toyota of Longview" [ref=e942] [cursor=pointer]:
+            - /url: https://www.toyotaoflongview.com
+        - generic [ref=e944]:
+          - text: Advanced Automotive Dealer Websites by
+          - link "Dealer Inspire" [ref=e945] [cursor=pointer]:
+            - /url: https://www.dealerinspire.com
+        - navigation [ref=e947]:
+          - list [ref=e948]:
+            - listitem [ref=e949]:
+              - link "Privacy Policy" [ref=e950] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/privacy-policy/
+            - listitem [ref=e951]:
+              - link "Contact Us" [ref=e952] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/contact-us/
+            - listitem [ref=e953]:
+              - link "Sitemap" [ref=e954] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=e955]:
+              - link "Sitemap XML" [ref=e956] [cursor=pointer]:
+                - /url: /sitemap_index.xml
+            - listitem [ref=e957]:
+              - link "AudioEye" [ref=e958] [cursor=pointer]:
+                - /url: https://customer-portal.audioeye.com/accessibility-statement.html
+            - listitem [ref=e959]:
+              - link "AudioEye" [ref=e960] [cursor=pointer]:
+                - /url: https://customer-portal.audioeye.com/accessibility-statement.html
+            - listitem [ref=e961]:
+              - link "Safety Recalls & Service Campaigns" [ref=e962] [cursor=pointer]:
+                - /url: https://www.toyotaoflongview.com/check-recalls/
+    - generic: 
+```

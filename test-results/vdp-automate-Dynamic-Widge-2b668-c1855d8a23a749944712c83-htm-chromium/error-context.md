@@ -1,0 +1,565 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - status [ref=e2]:
+    - paragraph [ref=e4]: This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled “Explore your accessibility options”.
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: "#page-body"
+  - banner [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - generic [ref=e13]: 
+            - text: "Sales: 517-759-7102"
+          - listitem [ref=e14]:
+            - generic [ref=e15]: 
+            - text: "Service: 517-366-4782"
+          - listitem [ref=e16]:
+            - generic [ref=e17]: 
+            - text: "Parts: 517-759-7340"
+        - paragraph [ref=e18]:
+          - link "1211 US Hwy 223, Adrian, MI 49221-4213" [ref=e19] [cursor=pointer]:
+            - /url: /dealership/directions.htm?selectedAccountId=crcdjrcllc
+            - generic [ref=e20]: 
+            - text: 1211 US Hwy 223, Adrian, MI 49221-4213
+      - generic [ref=e22]:
+        - generic [ref=e23]: 
+        - generic [ref=e24]: "Today: 9:00 am - 6:00 pm"
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - link "Jeep" [ref=e27] [cursor=pointer]:
+          - /url: /
+          - list [ref=e28]:
+            - listitem [ref=e29]:
+              - img "Jeep" [ref=e30]
+        - link [ref=e31] [cursor=pointer]:
+          - /url: /
+          - img [ref=e32]
+      - navigation "Main" [ref=e33]:
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "Home" [ref=e36] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e37]: 
+              - generic [ref=e38]: Home
+          - listitem [ref=e39]:
+            - button "New Inventory" [ref=e40] [cursor=pointer]: New Inventory 
+          - listitem [ref=e41]:
+            - button "Used Inventory" [ref=e42] [cursor=pointer]: Used Inventory 
+          - listitem [ref=e43]:
+            - button "Finance & Specials" [ref=e44] [cursor=pointer]: Finance & Specials 
+          - listitem [ref=e45]:
+            - button "Mopar Parts & Service" [ref=e46] [cursor=pointer]: Mopar Parts & Service 
+          - listitem [ref=e47]:
+            - button "About Us" [ref=e48] [cursor=pointer]: About Us 
+          - listitem [ref=e49]:
+            - button "SEARCH" [ref=e50] [cursor=pointer]:
+              - generic: 
+      - button "Open My Cars" [ref=e54] [cursor=pointer]:
+        - generic [ref=e55]: 
+  - main [ref=e58]:
+    - generic [ref=e60]:
+      - button "Share" [ref=e63] [cursor=pointer]:
+        - generic [ref=e65]: Share
+      - generic [ref=e67]:
+        - generic [ref=e68]: Certified 2023 Chrysler 300 Touring Sedan Photo 1 of 23
+        - button "Previous (Left Arrow)" [ref=e70] [cursor=pointer]
+        - button "Next (Right Arrow)" [ref=e72] [cursor=pointer]
+        - region "carousel-slider" [ref=e73]
+      - generic [ref=e88]:
+        - link "1 of 23 Photos" [ref=e89] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e90]: 
+          - generic [ref=e91]: 1 of 23 Photos
+        - link "Video" [ref=e92] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e93]: 
+          - generic [ref=e94]: Video
+    - generic [ref=e99]:
+      - heading "Certified Pre-Owned 2023 Chrysler 300 Touring" [level=1] [ref=e100]:
+        - generic [ref=e101]: Certified Pre-Owned 2023 Chrysler
+        - text: 300 Touring
+      - button "86 views in the past 7 days" [ref=e102] [cursor=pointer]:
+        - generic [ref=e103]: 86 views in the past 7 days
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - text: Exterior Color
+              - text: Silver Mist Interior Color
+              - text: Black Odometer 21,264 miles Body/Seating Sedan/5 seats Fuel Economy 19/30 MPG City/Hwy
+              - button "Details" [ref=e116] [cursor=pointer]
+            - generic [ref=e117]: Transmission 8-Speed Automatic Drivetrain Rear-Wheel Drive Engine V-6 cyl VIN 2C3CCAAG5PH510098 Stock Number PH510098A
+          - button "Window Sticker" [ref=e119] [cursor=pointer]:
+            - generic [ref=e120]: 
+            - generic [ref=e121]: Window Sticker
+        - generic [ref=e123]:
+          - button "Certified Pre-Owned" [ref=e125] [cursor=pointer]:
+            - img "Certified" [ref=e126]
+          - link "CARFAX 1-Owner Great Value Badge" [ref=e127] [cursor=pointer]:
+            - /url: https://www.carfax.com/vehiclehistory/ar20/lO8soA9bz6Clv6gaeMRYItPcatSy74V7g4tbj9XyUvqiiBbyrjtdj7g58Xl1aACwlwisJEQzwLr3UW_ulC_uQAEHONeRSCc-9io
+            - img "CARFAX 1-Owner Great Value Badge" [ref=e128]
+        - generic [ref=e129]:
+          - heading "Highlighted Features" [level=3] [ref=e130]
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - generic [ref=e133]: 
+              - text: Automatic temperature control
+            - listitem [ref=e134]:
+              - generic [ref=e135]: 
+              - text: Emergency communication system
+            - listitem [ref=e136]:
+              - generic [ref=e137]: 
+              - text: Wireless phone connectivity
+            - listitem [ref=e138]:
+              - generic [ref=e139]: 
+              - text: Exterior parking camera rear
+            - listitem [ref=e140]:
+              - generic [ref=e141]: 
+              - text: Front dual zone A/C
+            - listitem [ref=e142]:
+              - generic [ref=e143]: 
+              - text: Auto-dimming rearview mirror
+            - listitem [ref=e144]:
+              - generic [ref=e145]: 
+              - text: Split folding rear seat
+            - listitem [ref=e146]:
+              - generic [ref=e147]: 
+              - text: Remote keyless entry
+            - listitem [ref=e148]:
+              - generic [ref=e149]: 
+              - text: Steering wheel mounted audio controls
+            - listitem [ref=e150]:
+              - generic [ref=e151]: 
+              - text: Fully automatic headlights
+            - listitem [ref=e152]:
+              - generic [ref=e153]: 
+              - text: Security system
+            - listitem [ref=e154]:
+              - generic [ref=e155]: 
+              - text: Power driver seat
+          - button "All 15 Highlights" [ref=e156] [cursor=pointer]
+        - generic [ref=e157]:
+          - heading "Included Packages & Accessories" [level=3] [ref=e158]
+          - list [ref=e159]:
+            - listitem [ref=e160]: Mopar Interior Appearance Group
+            - listitem [ref=e161]: Quick Order Package 2EE
+            - listitem [ref=e162]: 6 Speakers
+            - listitem [ref=e163]: "AM/FM radio: SiriusXM"
+            - listitem [ref=e164]: Radio data system
+            - listitem [ref=e165]: "Radio: Uconnect 4C w/8.4\" Display"
+            - listitem [ref=e166]: Air Conditioning
+            - listitem [ref=e167]: Automatic temperature control
+            - listitem [ref=e168]: Front dual zone A/C
+            - listitem [ref=e169]: Rear window defroster
+            - listitem [ref=e170]: Power driver seat
+            - listitem [ref=e171]: Power steering
+            - listitem [ref=e172]: Power windows
+            - listitem [ref=e173]: Remote keyless entry
+            - listitem [ref=e174]: Steering wheel mounted audio controls
+            - listitem [ref=e175]: Four wheel independent suspension
+            - listitem [ref=e176]: Speed-sensing steering
+            - listitem [ref=e177]: Traction control
+            - listitem [ref=e178]: 4-Wheel Disc Brakes
+            - listitem [ref=e179]: ABS brakes
+            - listitem [ref=e180]: Anti-whiplash front head restraints
+            - listitem [ref=e181]: Dual front impact airbags
+            - listitem [ref=e182]: Dual front side impact airbags
+            - listitem [ref=e183]: "Emergency communication system: SiriusXM Guardian"
+            - listitem [ref=e184]: Front anti-roll bar
+            - listitem [ref=e185]: Knee airbag
+            - listitem [ref=e186]: Low tire pressure warning
+            - listitem [ref=e187]: Occupant sensing airbag
+            - listitem [ref=e188]: Overhead airbag
+            - listitem [ref=e189]: Rear anti-roll bar
+            - listitem [ref=e190]: Brake assist
+            - listitem [ref=e191]: Electronic Stability Control
+            - listitem [ref=e192]: ParkView Rear Back-Up Camera
+            - listitem [ref=e193]: Delay-off headlights
+            - listitem [ref=e194]: Fully automatic headlights
+            - listitem [ref=e195]: Panic alarm
+            - listitem [ref=e196]: Security system
+            - listitem [ref=e197]: Speed control
+            - listitem [ref=e198]: "Bumpers: body-color"
+            - listitem [ref=e199]: Heated door mirrors
+            - listitem [ref=e200]: Power door mirrors
+            - listitem [ref=e201]: Apple CarPlay/Android Auto
+            - listitem [ref=e202]: Auto-dimming Rear-View mirror
+            - listitem [ref=e203]: Bright Pedals
+            - listitem [ref=e204]: Compass
+            - listitem [ref=e205]: Door Sill Scuff Pads
+            - listitem [ref=e206]: Driver door bin
+            - listitem [ref=e207]: Driver vanity mirror
+            - listitem [ref=e208]: Front reading lights
+            - listitem [ref=e209]: Illuminated entry
+            - listitem [ref=e210]: Leather steering wheel
+            - listitem [ref=e211]: MOPAR Premium Floor Mats w/Logo
+            - listitem [ref=e212]: Outside temperature display
+            - listitem [ref=e213]: Overhead console
+            - listitem [ref=e214]: Passenger vanity mirror
+            - listitem [ref=e215]: Rear reading lights
+            - listitem [ref=e216]: Rear seat center armrest
+            - listitem [ref=e217]: Tachometer
+            - listitem [ref=e218]: Telescoping steering wheel
+            - listitem [ref=e219]: Tilt steering wheel
+            - listitem [ref=e220]: Trip computer
+            - listitem [ref=e221]: Cloth Bucket Seats
+            - listitem [ref=e222]: Front Bucket Seats
+            - listitem [ref=e223]: Front Center Armrest
+            - listitem [ref=e224]: Split folding rear seat
+            - listitem [ref=e225]: Passenger door bin
+            - listitem [ref=e226]: Alloy wheels
+            - listitem [ref=e227]: "Wheels: 17\" x 7.0\" Painted Cast Aluminum"
+            - listitem [ref=e228]: Variably intermittent wipers
+            - listitem [ref=e229]: Sport Appearance Package
+            - listitem [ref=e230]: Black Headlamp Bezels
+            - listitem [ref=e231]: Black Chrome Surround 300S Grille
+            - listitem [ref=e232]: Black LED Taillamps
+            - listitem [ref=e233]: Black Noise 300 Badge
+            - listitem [ref=e234]: Black Noise Wing Badges - Black Insert
+            - listitem [ref=e235]: Gloss Black Day Light Opening Surround Molding
+            - listitem [ref=e236]: Gloss Black Front Fascia Applique
+            - listitem [ref=e237]: "Wheels: 20\" x 8.0\" Black Noise Aluminum"
+        - generic [ref=e238]:
+          - heading "Included Packages & Options" [level=3] [ref=e239]
+          - generic [ref=e240]:
+            - strong [ref=e241]:
+              - heading "Sport Appearance Package" [level=3] [ref=e242]
+              - generic [ref=e243]: $1,795
+            - text: "Wheels: 20\" x 8.0\" Black Noise Aluminum Black Chrome Surround 300S Grille Black Headlamp Bezels"
+            - button "Show All Package Items" [ref=e244] [cursor=pointer]
+        - generic [ref=e245]:
+          - heading "Standard Specifications" [level=3] [ref=e246]
+          - button "Convenience Features" [ref=e251] [cursor=pointer]:
+            - heading "Convenience Features" [level=4] [ref=e252]:
+              - generic [ref=e253]:
+                - generic [ref=e254]: 
+                - text: Convenience Features
+          - button "Suspension/Handling" [ref=e259] [cursor=pointer]:
+            - heading "Suspension/Handling" [level=4] [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262]: 
+                - text: Suspension/Handling
+          - button "Entertainment Features" [ref=e267] [cursor=pointer]:
+            - heading "Entertainment Features" [level=4] [ref=e268]:
+              - generic [ref=e269]:
+                - generic [ref=e270]: 
+                - text: Entertainment Features
+          - button "Seats and Trim" [ref=e275] [cursor=pointer]:
+            - heading "Seats and Trim" [level=4] [ref=e276]:
+              - generic [ref=e277]:
+                - generic [ref=e278]: 
+                - text: Seats and Trim
+          - button "Powertrain" [ref=e283] [cursor=pointer]:
+            - heading "Powertrain" [level=4] [ref=e284]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: 
+                - text: Powertrain
+          - button "Body Exterior" [ref=e291] [cursor=pointer]:
+            - heading "Body Exterior" [level=4] [ref=e292]:
+              - generic [ref=e293]:
+                - generic [ref=e294]: 
+                - text: Body Exterior
+          - button "Specs and Dimensions" [ref=e299] [cursor=pointer]:
+            - heading "Specs and Dimensions" [level=4] [ref=e300]:
+              - generic [ref=e301]:
+                - generic [ref=e302]: 
+                - text: Specs and Dimensions
+          - button "Lighting, Visibility and Instrumentation" [ref=e307] [cursor=pointer]:
+            - heading "Lighting, Visibility and Instrumentation" [level=4] [ref=e308]:
+              - generic [ref=e309]:
+                - generic [ref=e310]: 
+                - text: Lighting, Visibility and Instrumentation
+          - button "Safety and Security" [ref=e315] [cursor=pointer]:
+            - heading "Safety and Security" [level=4] [ref=e316]:
+              - generic [ref=e317]:
+                - generic [ref=e318]: 
+                - text: Safety and Security
+        - generic [ref=e319]:
+          - heading "Standard Features" [level=3] [ref=e320]
+          - button "Sport Appearance Package" [ref=e325] [cursor=pointer]:
+            - heading "Sport Appearance Package" [level=4] [ref=e326]:
+              - generic [ref=e327]:
+                - generic [ref=e328]: 
+                - text: Sport Appearance Package
+        - generic [ref=e329]:
+          - heading "Dealer Notes" [level=3] [ref=e330]
+          - generic [ref=e331]:
+            - text: CARFAX One-Owner. Clean CARFAX. We understand the reasons people shop online. Pricing is often one of the main reasons. We want to win your business. We understand that competitive pricing, combined with strong inventory and stellar customer service are key. Let's make this process quick and painless.
+            - text: 2023 Chrysler 300 Touring - Premium Sedan with Low Miles!
+            - text: Experience luxury and performance in this stunning Silver Mist Clearcoat 300 Touring with only 21,261 miles! The powerful 292HP Pentastar 3.6L V6 engine delivers smooth acceleration while achieving an impressive 30 highway MPG.
+            - text: "Safety You Can Trust: Earned a 4-Star Overall Safety Rating with 5-Star Side Impact protection. Advanced safety features include ParkView backup camera, Electronic Stability Control, and Hill Start Assist for confident driving."
+            - text: "Tech & Comfort Features: Stay connected with Apple CarPlay/Android Auto, 4G LTE Wi-Fi hotspot, and Bluetooth streaming. Enjoy premium comfort with 8-way power driver seat, dual-zone climate control, and spacious 60-40 folding rear seats."
+            - text: "* Transferable Warranty"
+            - text: "* Roadside Assistance"
+            - text: "* Vehicles Up to 75,000 Miles and/or 5 Model Years. 24-Hour Towing & Roadside Assistance, Car Rental Allowance, CARFAXÂ® Vehicle History ReportTM and an Introductory 3-month Subscription to SiriusXMÂ® Satellite Radio & Certified Warranty Upgrades"
+            - text: "* Limited Warranty: 3 Month/3,000 Mile (whichever comes first) after new car warranty expires or from certified purchase date"
+            - text: "* Vehicle History"
+            - text: "* 125 Point Inspection"
+            - text: "* Warranty Deductible: $100"
+            - text: "* Powertrain Limited Warranty: 84 Month/100,000 Mile (whichever comes first) from original in-service date"
+            - text: RWD 300 Touring Silver Mist Clearcoat 8-Speed Automatic
+            - text: 19/30 City/Highway MPG
+            - text: "CREDIT ISSUES???: CR of ADRIAN Can Get ANYONE FINANCED!!!"
+            - text: "Call Our Friendly Sales Staff and Get Treated With the Respect YOU Deserve!!! GUARANTEED FINANCING: Quit Shopping Your Credit Around, and Get Into A Nice Quality Pre-Owned Vehicle. We Have Financing for Every Situation."
+            - text: "CR of ADRIAN Promise: We're Committed to Providing 100% Customer Satisfaction. Proudly Serving Michigan, Ohio, Indiana and ANYONE Looking for a GREAT DEAL!"
+            - text: Please call, email or simply stop in today!
+        - generic [ref=e332]:
+          - heading "KBB.com Consumer Reviews" [level=3] [ref=e333]
+          - generic [ref=e334]:
+            - img "Kelley Blue Book - The trusted Resource" [ref=e336]
+            - generic [ref=e338]:
+              - text: Overall
+              - strong [ref=e339]: "4.7"
+              - generic [ref=e340]: Out of 5
+          - list [ref=e342]:
+            - listitem [ref=e343]:
+              - generic [ref=e344]:
+                - generic [ref=e345]:
+                  - heading "very nice mopar" [level=4] [ref=e346]
+                  - paragraph [ref=e347]:
+                    - generic [ref=e348]:
+                      - generic [ref=e349]: By Big John
+                      - text: "|"
+                      - generic [ref=e350]: "on"
+                    - text: Friday, January 15, 2021
+                - strong [ref=e351]: "5.0"
+              - generic [ref=e353]: i love this car. it has the styling and the right look. it is pretty quick for v6 rwd boat of a vehicle. it rides and drives like a 300 should.
+            - listitem [ref=e354]:
+              - generic [ref=e355]:
+                - generic [ref=e356]:
+                  - heading "perfect travel car" [level=4] [ref=e357]
+                  - paragraph [ref=e358]:
+                    - generic [ref=e359]:
+                      - generic [ref=e360]: By T45
+                      - text: "|"
+                      - generic [ref=e361]: "on"
+                    - text: Friday, December 02, 2016
+                - strong [ref=e362]: "5.0"
+              - generic [ref=e366]:
+                - text: Comfortable. Trunk holds three large suitcases. Gets 19mpg city and 30 mpg highway, just as advertised. Separate passenger and driver comfort controls. Great
+                - generic [ref=e367]:
+                  - text: …
+                  - 'button "Read More - about review titled: perfect travel car" [ref=e368] [cursor=pointer]':
+                    - text: Read More
+                    - generic [ref=e369]: "- about review titled: perfect travel car"
+            - listitem [ref=e370]:
+              - generic [ref=e371]:
+                - generic [ref=e372]:
+                  - heading "2014 Chrysler 300C V-6 - Luxury Edition" [level=4] [ref=e373]
+                  - paragraph [ref=e374]:
+                    - generic [ref=e375]:
+                      - generic [ref=e376]: By Diamond Dave
+                      - text: "|"
+                      - generic [ref=e377]: "on"
+                    - text: Sunday, October 18, 2020
+                - strong [ref=e378]: "5.0"
+              - generic [ref=e382]:
+                - text: Purchased this car in June 2016. It is FULLY loaded with every single bell and whistle Chrysler offered that year (including 20-inch stock chromed wheels). In the
+                - generic [ref=e383]:
+                  - text: …
+                  - 'button "Read More - about review titled: 2014 Chrysler 300C V-6 - Luxury Edition" [ref=e384] [cursor=pointer]':
+                    - text: Read More
+                    - generic [ref=e385]: "- about review titled: 2014 Chrysler 300C V-6 - Luxury Edition"
+          - generic [ref=e387]:
+            - generic [ref=e388]: Based on 245 consumer ratings for 2011–2026 models. |
+            - link "Privacy" [ref=e389] [cursor=pointer]:
+              - /url: https://www.kbb.com/company/privacy-policy/
+        - generic [ref=e391]:
+          - paragraph [ref=e392]: "* The advertised price does not include sales tax, vehicle registration fees, other fees required by law, finance charges and any documentation charges. A negotiable administration fee, up to $115, may be added to the price of the vehicle."
+          - paragraph [ref=e393]: "* Images, prices, and options shown, including vehicle color, trim, options, pricing and other specifications are subject to availability, incentive offerings, current pricing and credit worthiness."
+      - generic [ref=e394]:
+        - generic [ref=e397]:
+          - button "Track Price on this 2023 Chrysler 300 Touring" [ref=e398] [cursor=pointer]:
+            - generic [ref=e399]:
+              - generic [ref=e400]: 
+              - generic [ref=e401]: Track Price
+          - button "Save this 2023 Chrysler 300 Touring" [ref=e402] [cursor=pointer]:
+            - generic [ref=e403]:
+              - generic [ref=e404]: 
+              - generic [ref=e405]: Save
+        - generic [ref=e406]:
+          - generic [ref=e407]: Price $27,490
+          - generic [ref=e408]:
+            - generic [ref=e409]:
+              - button " Get Today's Price" [ref=e411] [cursor=pointer]
+              - button " Schedule Test Drive" [ref=e413] [cursor=pointer]
+            - generic "Get Pre-qualified powered by Capital One" [ref=e415]
+            - link " Value Your Trade" [ref=e417] [cursor=pointer]:
+              - /url: "#"
+            - link "Start My Deal Online" [ref=e419] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "Start My Deal Online" [ref=e420]
+          - text:  
+          - generic [ref=e421]:
+            - iframe [ref=e423]:
+              - generic [ref=f7e4]:
+                - generic [ref=f7e6]:
+                  - generic [ref=f7e7]:
+                    - img [ref=f7e10]
+                    - generic [ref=f7e12]:
+                      - text: No Impact To Your Credit Score
+                      - text: Get Pre-qualified today!
+                  - generic "Unlock Real Rates powered by Capital One" [ref=f7e14]:
+                    - button "Unlock Real Rates" [ref=f7e16] [cursor=pointer]:
+                      - generic [ref=f7e17]: Unlock Real Rates
+                - article [ref=f7e26]:
+                  - generic [ref=f7e27]:
+                    - generic [ref=f7e32]:
+                      - generic [ref=f7e33]:
+                        - generic [ref=f7e34]: You are receiving estimated payments and rates. Your monthly payment is now 471 dollars, your APR is now 9.9 percent, your term length is now 72 months, and your downpayment is now 2,000 dollars
+                        - generic [ref=f7e35]: $
+                        - generic [ref=f7e36]: "471"
+                        - generic [ref=f7e37]: /mo
+                      - generic [ref=f7e39]: 9.9 % APR · 72 mos. · $2,000 Down
+                      - generic "apr and term length values" [ref=f7e41]: Estimated payments and rate
+                    - generic [ref=f7e42]:
+                      - generic [ref=f7e44]:
+                        - generic [ref=f7e46]:
+                          - text: Personalize your financing
+                          - button "Finance Calculator Help" [ref=f7e47] [cursor=pointer]:
+                            - img "Open Tooltip" [ref=f7e49]
+                        - generic [ref=f7e52]:
+                          - generic [ref=f7e54]:
+                            - checkbox "Include TT&L in terms" [ref=f7e55] [cursor=pointer]
+                            - generic [ref=f7e56]:
+                              - generic: Include TT&L in terms
+                          - generic [ref=f7e57]: Include tax, title, and license fees in payment terms.
+                      - generic [ref=f7e58]:
+                        - generic [ref=f7e63]:
+                          - generic [ref=f7e64]:
+                            - generic: Estimated credit range
+                          - combobox "Estimated credit range" [ref=f7e66]:
+                            - option "750-850"
+                            - option "700-749" [selected]
+                            - option "641-699"
+                            - option "≤640"
+                        - generic [ref=f7e72]:
+                          - generic [ref=f7e73]: Monthly Payment
+                          - spinbutton "Monthly Payment" [ref=f7e75]: "471"
+                          - slider "Monthly Payment" [ref=f7e78] [cursor=pointer]
+                          - generic [ref=f7e79]: Increasing or decreasing this amount will change the monthly payment amount in dollars.
+                        - generic [ref=f7e85]:
+                          - generic [ref=f7e86]: Down Payment
+                          - spinbutton "Down Payment" [ref=f7e88]: "2000"
+                          - slider "Down Payment" [ref=f7e91] [cursor=pointer]
+                          - generic [ref=f7e92]: Increasing or decreasing this amount will change the down payment amount in dollars.
+                        - radiogroup "Term Length (months)" [ref=f7e96]:
+                          - generic [ref=f7e97]: Term Length (months)
+                          - generic [ref=f7e98]:
+                            - generic [ref=f7e99]:
+                              - generic [ref=f7e100] [cursor=pointer]: "48"
+                              - radio "48" [ref=f7e101] [cursor=pointer]
+                            - generic [ref=f7e102]:
+                              - generic [ref=f7e103] [cursor=pointer]: "60"
+                              - radio "60" [ref=f7e104] [cursor=pointer]
+                            - generic [ref=f7e105]:
+                              - generic [ref=f7e106] [cursor=pointer]: "72"
+                              - radio "72" [checked] [ref=f7e107] [cursor=pointer]
+                            - generic [ref=f7e108]:
+                              - generic [ref=f7e109] [cursor=pointer]: "84"
+                              - radio "84" [ref=f7e110] [cursor=pointer]
+                        - button "Add Net Trade-in $0" [ref=f7e115] [cursor=pointer]:
+                          - img [ref=f7e118]
+                          - generic [ref=f7e120]:
+                            - paragraph [ref=f7e121]: Add Net Trade-in
+                            - paragraph [ref=f7e122]: $0
+                          - img [ref=f7e124]
+                        - generic [ref=f7e130]:
+                          - text: "Total amount financed:"
+                          - generic [ref=f7e131]: $25,490
+                        - button "View price breakdown" [ref=f7e134] [cursor=pointer]
+                - generic [ref=f7e141]:
+                  - paragraph [ref=f7e142]: These terms, including monthly payment and Annual Percentage Rate (APR) are estimates, and are not final until your financing is completed at CR CDJR Of Adrian. Estimated APRs are provided by a third party as examples only. The estimated APRs may not be available to all consumers within a particular credit score range, and are not an offer of credit. Estimated terms are subject to change. Rates may depend on your credit and key financing characteristics, including but not limited to the amount financed, term, loan-to-value ratio, down payment amount, and vehicle characteristics. An estimate of tax, title and license fees is not included in the Total Amount Financed, however you can opt to include TT&L in terms with the toggle above to see how including TT&L may impact your financing terms. The price may not include optional products like service contract or extended warranty. Please contact the dealer to confirm availability and eligibility for any offers and incentives.
+                  - button "Read disclosures" [ref=f7e143]
+            - button " Schedule Your Appointment Now" [ref=e428] [cursor=pointer]
+          - generic: 
+          - generic:
+            - listitem
+          - button "Ask" [ref=e430] [cursor=pointer]:
+            - generic [ref=e431]: 
+            - text: Ask
+          - link " View Window Sticker" [ref=e433] [cursor=pointer]:
+            - /url: /api/legacy/pse/windowsticker/chrysler?vin=2C3CCAAG5PH510098&accountId=crcdjrcllc
+          - text:  
+          - generic [ref=e435]: We're here to help 517-759-7102
+  - generic [ref=e443]:
+    - link "Website by Dealer.com" [ref=e446] [cursor=pointer]:
+      - /url: https://www.dealer.com
+    - generic [ref=e447]:
+      - navigation "Footer":
+        - list [ref=e448]:
+          - listitem [ref=e449]:
+            - link "About" [ref=e450] [cursor=pointer]:
+              - /url: /dealership/about.htm
+              - text: About
+              - generic [ref=e451]: 
+          - listitem [ref=e452]:
+            - link "Directions" [ref=e453] [cursor=pointer]:
+              - /url: /dealership/directions.htm
+              - text: Directions
+              - generic [ref=e454]: 
+          - listitem [ref=e455]:
+            - link "Privacy" [ref=e456] [cursor=pointer]:
+              - /url: /privacy.htm
+              - text: Privacy
+              - generic [ref=e457]: 
+          - listitem [ref=e458]:
+            - link "Contact Us & Directions" [ref=e459] [cursor=pointer]:
+              - /url: /contact.htm
+              - text: Contact Us & Directions
+              - generic [ref=e460]: 
+          - listitem [ref=e461]:
+            - link "Sitemap" [ref=e462] [cursor=pointer]:
+              - /url: /sitemap.htm
+              - text: Sitemap
+              - generic [ref=e463]: 
+          - listitem [ref=e464]:
+            - link "Legal" [ref=e465] [cursor=pointer]:
+              - /url: /legal.htm
+              - text: Legal
+              - generic [ref=e466]: 
+    - generic [ref=e467]:
+      - link "Visit us on Facebook" [ref=e468] [cursor=pointer]:
+        - /url: https://www.facebook.com/CRChryslerAdrian
+        - img [ref=e469]
+      - link "Visit us on Instagram" [ref=e473] [cursor=pointer]:
+        - /url: https://www.instagram.com/crmotorsofadrian/
+        - img [ref=e474]
+  - img [ref=e478]
+  - img [ref=e479]
+  - generic:
+    - iframe [ref=e480]:
+      - generic [active] [ref=f12e1]:
+        - generic [ref=f12e4]:
+          - button "close" [ref=f12e5] [cursor=pointer]
+          - generic [ref=f12e8] [cursor=pointer]: Hi there, have a question? Text us here.
+        - generic:
+          - img:
+            - generic:
+              - generic "close carousel"
+    - iframe [ref=e481]:
+      - generic [active] [ref=f11e1]:
+        - button "Select to open the chat widget" [ref=f11e5] [cursor=pointer]:
+          - generic [ref=f11e6]:
+            - img [ref=f11e7]
+            - img [ref=f11e11]
+            - generic [ref=f11e16]: Text us
+        - generic:
+          - img:
+            - generic:
+              - generic "close carousel"
+  - img [ref=e482]
+  - generic:
+    - complementary "Accessibility Help Desk" [ref=e483] [cursor=pointer]:
+      - button "Explore your accessibility options" [ref=e484]:
+        - generic [ref=e488]:
+          - generic [ref=e489]: 
+          - generic [ref=e490]: 
+    - img:
+      - generic:
+        - generic "close carousel"
+```

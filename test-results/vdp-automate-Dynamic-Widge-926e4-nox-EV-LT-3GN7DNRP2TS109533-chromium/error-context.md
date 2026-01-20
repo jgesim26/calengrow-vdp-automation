@@ -1,0 +1,654 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - button "Use Website In a Screen-Reader Mode" [ref=e2]
+  - link "Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window" [ref=e3] [cursor=pointer]:
+    - /url: https://accessibe.com/blog/knowledgebase/screen-reader-guide
+  - generic:
+    - generic:
+      - region "Skip Links":
+        - generic:
+          - link "Skip to Content":
+            - /url: "#acsbContent"
+            - text: Skip to Content
+            - generic:
+              - generic: ↵
+              - text: ENTER
+        - generic:
+          - link "Skip to Menu":
+            - /url: "#acsbMenu"
+            - text: Skip to Menu
+            - generic:
+              - generic: ↵
+              - text: ENTER
+        - generic:
+          - link "Skip to Footer":
+            - /url: "#acsbFooter"
+            - text: Skip to Footer
+            - generic:
+              - generic: ↵
+              - text: ENTER
+  - dialog [ref=e4]:
+    - generic [ref=e5]:
+      - img [ref=e6]
+      - text: Simplify Text
+    - button [ref=e8] [cursor=pointer]:
+      - img [ref=e9]
+  - 'button "Open accessiBe: accessibility options, statement and help" [ref=e12] [cursor=pointer]':
+    - generic:
+      - img [ref=e13]
+      - img
+      - img
+  - banner [ref=e17]:
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - list [ref=e21]:
+          - listitem [ref=e22]:
+            - link "Chevrolet" [ref=e23] [cursor=pointer]:
+              - /url: /
+              - img "Chevrolet" [ref=e25]
+          - listitem [ref=e26]:
+            - link "Morristown Chevrolet MORRISTOWN, TN" [ref=e27] [cursor=pointer]:
+              - /url: /
+              - img "Morristown Chevrolet MORRISTOWN, TN" [ref=e28]
+        - list [ref=e30]:
+          - listitem
+          - listitem [ref=e31]: Sales 423-716-6372
+          - listitem [ref=e32]:
+            - list [ref=e33]:
+              - listitem
+              - listitem
+          - listitem [ref=e34]: 5320 W Andrew Johnson Hwy Morristown, TN 37814
+          - text:   
+          - listitem [ref=e35]:
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - link " Service" [ref=e38] [cursor=pointer]:
+                  - /url: /serviceappmt.aspx
+                  - generic [ref=e39]:
+                    - generic [ref=e40]: 
+                    - text: Service
+              - listitem [ref=e41]:
+                - link " Map" [ref=e42] [cursor=pointer]:
+                  - /url: /hours.aspx
+                  - generic [ref=e43]:
+                    - generic [ref=e44]: 
+                    - text: Map
+              - listitem [ref=e45]:
+                - link " Contact" [ref=e46] [cursor=pointer]:
+                  - /url: /contactus.aspx
+                  - generic [ref=e47]:
+                    - generic [ref=e48]: 
+                    - text: Contact
+              - listitem [ref=e49]:
+                - link "My Saved Vehicles" [ref=e51] [cursor=pointer]:
+                  - /url: /mysavedvehicles
+                  - generic [ref=e52]:
+                    - generic [ref=e53]: 
+                    - text: Saved
+          - text: 
+      - text:   
+    - navigation [ref=e54]:
+      - navigation "Main" [ref=e55]:
+        - generic [ref=e57]:
+          - generic: 
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - link "Home" [ref=e61] [cursor=pointer]:
+                - /url: /
+                - generic "Home" [ref=e62]: 
+            - listitem [ref=e63]:
+              - button "Shop New" [ref=e64] [cursor=pointer]
+            - listitem [ref=e65]:
+              - button "Shop Used" [ref=e66] [cursor=pointer]
+            - listitem [ref=e67]:
+              - button "Specials" [ref=e68] [cursor=pointer]
+            - listitem [ref=e69]:
+              - button "Finance" [ref=e70] [cursor=pointer]
+            - listitem [ref=e71]:
+              - button "Sell/Trade" [ref=e72] [cursor=pointer]
+            - listitem [ref=e73]:
+              - button "Service & Parts" [ref=e74] [cursor=pointer]
+            - listitem [ref=e75]:
+              - button "Research" [ref=e76] [cursor=pointer]
+            - listitem [ref=e77]:
+              - button "About" [ref=e78] [cursor=pointer]
+  - text: 
+  - generic [ref=e79]:
+    - complementary "Offers"
+    - main [ref=e80]:
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic:
+            - link:
+              - /url: https://www.kbb.com/instant-cash-offer/W/72641887/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - img "KBB Logo" [ref=e88]
+            - generic [ref=e89]:
+              - generic [ref=e90]: What's Your Trade‑In Worth?
+              - generic [ref=e91]: Get your Kelley Blue Book® Trade‑In Value.
+          - generic [ref=e92]:
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - button "Make/Model" [ref=e95] [cursor=pointer]
+              - listitem [ref=e96]:
+                - button "VIN" [ref=e97] [cursor=pointer]
+              - listitem [ref=e98]:
+                - button "License Plate" [ref=e99] [cursor=pointer]
+            - textbox "Make/Model" [ref=e101]:
+              - /placeholder: Enter Year Make Model Trim
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - list [ref=e104]:
+              - listitem [ref=e105]:
+                - link "Morristown Chevrolet" [ref=e106] [cursor=pointer]:
+                  - /url: /
+              - listitem [ref=e107]:
+                - text: /
+                - link "New Vehicles" [ref=e108] [cursor=pointer]:
+                  - /url: /searchnew.aspx
+              - listitem [ref=e109]:
+                - text: /
+                - link "2026" [ref=e110] [cursor=pointer]:
+                  - /url: /searchnew.aspx?year=2026
+              - listitem [ref=e111]:
+                - text: /
+                - link "Chevrolet" [ref=e112] [cursor=pointer]:
+                  - /url: /searchnew.aspx?year=2026&make=chevrolet
+              - listitem [ref=e113]:
+                - text: /
+                - link "Equinox EV" [ref=e114] [cursor=pointer]:
+                  - /url: /searchnew.aspx?year=2026&make=chevrolet&model=equinox%20ev
+              - listitem [ref=e115]:
+                - text: /
+                - link "LT" [ref=e116] [cursor=pointer]:
+                  - /url: /searchnew.aspx?year=2026&make=chevrolet&model=equinox%20ev&trim=lt
+            - text: 
+            - button "Confirm Availability" [ref=e118] [cursor=pointer]:
+              - generic [ref=e119]: 
+              - text: Confirm Availability
+          - tabpanel "Photos" [ref=e122]:
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - text:  
+                - generic [ref=e126]:
+                  - button "Expand Photo 0" [ref=e127] [cursor=pointer]:
+                    - img "2026 Chevrolet Equinox EV LT" [ref=e128]
+                  - generic [ref=e129]:
+                    - button "Expand Photo 1" [ref=e130] [cursor=pointer]:
+                      - img "2026 Chevrolet Equinox EV LT" [ref=e131]
+                    - button "Expand Photo 2" [ref=e132] [cursor=pointer]:
+                      - img "2026 Chevrolet Equinox EV LT" [ref=e133]
+                    - button "Expand Photo 3" [ref=e134] [cursor=pointer]:
+                      - img "2026 Chevrolet Equinox EV LT" [ref=e135]
+              - button "Load More Photos" [ref=e139] [cursor=pointer]
+            - text:   
+          - generic [ref=e140]:
+            - group [ref=e143]:
+              - button "HD Viewer mini preview" [ref=e144]
+              - button "Launch 360" [ref=e145] [cursor=pointer]:
+                - img "Launch 360 Icon" [ref=e146]
+            - generic [ref=e147]:
+              - generic [ref=e148]:
+                - generic [ref=e150]:
+                  - heading "2026 Chevrolet Equinox EV LT" [level=2] [ref=e153]:
+                    - generic [ref=e154]: 2026 Chevrolet Equinox EV
+                    - generic [ref=e155]: LT
+                  - generic [ref=e158] [cursor=pointer]:
+                    - checkbox "Save this vehicle" [ref=e159]
+                    - generic [ref=e160]: 
+                  - button "Actions" [ref=e164] [cursor=pointer]:
+                    - img "dropdown dots" [ref=e165]:
+                      - generic [ref=e166]: 
+                      - generic [ref=e167]: 
+                      - generic [ref=e168]: 
+                  - generic [ref=e170]:
+                    - generic [ref=e171]: 
+                    - generic [ref=e172]: In Stock
+                - generic [ref=e176]:
+                  - generic [ref=e177]:
+                    - tablist [ref=e178]:
+                      - tab "Buy" [expanded] [ref=e179] [cursor=pointer]
+                      - tab "Finance" [ref=e180] [cursor=pointer]
+                      - tab "Lease" [ref=e181] [cursor=pointer]
+                    - generic [ref=e182]:
+                      - generic [ref=e183]:
+                        - generic [ref=e184]:
+                          - generic [ref=e185]:
+                            - list [ref=e188]:
+                              - listitem [ref=e189]:
+                                - generic [ref=e190]:
+                                  - generic [ref=e191]: $6,392
+                                  - text: SAVINGS
+                                - generic [ref=e192]:
+                                  - generic [ref=e193]: $37,198
+                                  - text: FINAL PRICE
+                            - generic [ref=e195]:
+                              - button "Less " [expanded] [ref=e197] [cursor=pointer]:
+                                - text: Less
+                                - generic [ref=e198]: 
+                              - region [ref=e199]:
+                                - list [ref=e200]:
+                                  - listitem [ref=e201]:
+                                    - generic [ref=e202]: "MSRP:"
+                                    - generic [ref=e203]: $43,590
+                                  - listitem [ref=e204]:
+                                    - button "Dealer Discount" [ref=e205] [cursor=pointer]:
+                                      - generic [ref=e206]: Dealer Discount
+                                    - generic [ref=e207]: "-$1,392"
+                                  - listitem [ref=e208]:
+                                    - list [ref=e209]:
+                                      - listitem [ref=e210]:
+                                        - button "Customer Cash" [ref=e211] [cursor=pointer]:
+                                          - generic [ref=e212]: Customer Cash
+                                        - generic [ref=e213]: "-$5,000"
+                                  - listitem [ref=e214]:
+                                    - generic [ref=e215]: "Final Price:"
+                                    - generic [ref=e216]: $37,198
+                                  - listitem [ref=e217]
+                                  - listitem [ref=e218]:
+                                    - list [ref=e219]:
+                                      - listitem [ref=e220]:
+                                        - generic [ref=e221]: "Add. Offers you may Qualify For:"
+                                      - listitem [ref=e222]:
+                                        - button "Purchase Allowance for Current Eligible Non-GM Owners and Lessees" [ref=e223] [cursor=pointer]:
+                                          - generic [ref=e224]: Purchase Allowance for Current Eligible Non-GM Owners and Lessees
+                                        - generic [ref=e225]: "-$1,250"
+                                  - listitem [ref=e226]
+                                  - listitem [ref=e227]:
+                                    - paragraph [ref=e228]:
+                                      - text: "*"
+                                      - strong [ref=e229]: "Please Note:"
+                                      - text: We turn our inventory daily, please check with the dealer to confirm vehicle availability.
+                            - generic [ref=e231]:
+                              - button "Schedule Your Appointment Now" [ref=e237] [cursor=pointer]
+                              - list [ref=e238]:
+                                - listitem [ref=e239]:
+                                  - button "Get Your VIP Price" [ref=e240] [cursor=pointer]
+                                - listitem [ref=e241]:
+                                  - link "KBB Instant Cash Offer!" [ref=e242] [cursor=pointer]:
+                                    - /url: https://www.kbb.com/instant-cash-offer/W/72641887/43A6F9B8-DB6C-48C0-A360-F658B2176E3E/
+                                - listitem [ref=e243]:
+                                  - link "Explore Payments" [ref=e244] [cursor=pointer]:
+                                    - /url: https://buy.gm.com/313897/13/3GN7DNRP2TS109533/details/finance?refer=https://www.morristownchevrolet.com
+                                    - img "Explore Payments" [ref=e245]
+                                - listitem [ref=e246]:
+                                  - link "Chevrolet Accessories" [ref=e247] [cursor=pointer]:
+                                    - /url: https://accessories.chevrolet.com/categories?evar25=accyt3_vdp&bac=313897&vin=3GN7DNRP2TS109533
+                          - text: 
+                        - text:  
+                      - text:    
+                  - iframe [ref=e250]:
+                    - generic [ref=f6e4]:
+                      - generic [ref=f6e6]:
+                        - generic [ref=f6e7]: EV Savings & Insights
+                        - generic [ref=f6e9]:
+                          - generic [ref=f6e10]: 
+                          - text: "Zip:"
+                          - button "37814" [ref=f6e11] [cursor=pointer]
+                      - generic [ref=f6e12]:
+                        - button "Fuel Savings" [ref=f6e13] [cursor=pointer]
+                        - button "EV Rebates" [ref=f6e14] [cursor=pointer]
+                        - button "Charging Map" [ref=f6e15] [cursor=pointer]
+                        - button "Home Charging" [ref=f6e16] [cursor=pointer]
+                      - generic [ref=f6e17]:
+                        - generic [ref=f6e18]:
+                          - generic [ref=f6e19]: Vehicle
+                          - generic [ref=f6e20]: 2026 Chevrolet Equinox EV
+                          - generic [ref=f6e21]: "VIN: 3GN7DNRP2TS109533"
+                        - text: 
+                      - generic [ref=f6e23]:
+                        - generic [ref=f6e24]: Fuel Savings Estimator
+                        - generic [ref=f6e25]: See how much you could save with an EV.
+                      - generic [ref=f6e26]:
+                        - generic [ref=f6e29]:
+                          - generic [ref=f6e30]:
+                            - generic [ref=f6e31]: Miles driven daily
+                            - generic [ref=f6e32]:
+                              - slider "Miles driven daily" [ref=f6e33]: "50"
+                              - generic [ref=f6e34]: "50"
+                            - generic [ref=f6e35]: Miles Per Gallon (MPG)
+                            - generic [ref=f6e36]:
+                              - slider "Miles Per Gallon (MPG) Gas Price Per Gallon Electricity Price Per kWh" [ref=f6e37]: "20"
+                              - generic [ref=f6e38]: "20"
+                            - button "Based on fuel price and vehicle usage estimates" [ref=f6e39] [cursor=pointer]
+                          - generic [ref=f6e40]: Compare to Your Gas Vehicle
+                          - generic [ref=f6e43]:
+                            - generic [ref=f6e44]:
+                              - button "2 Year" [ref=f6e45] [cursor=pointer]
+                              - button "3 Year" [ref=f6e46] [cursor=pointer]
+                              - button "5 Year" [ref=f6e47] [cursor=pointer]
+                            - generic [ref=f6e48]: Estimated Fuel Savings
+                            - generic [ref=f6e49]: $7,666
+                        - text:   
+                      - img [ref=f6e51]
+              - generic [ref=e252]:
+                - heading "Visit our Store" [level=2] [ref=e253]
+                - generic [ref=e254]:
+                  - list [ref=e255]:
+                    - listitem [ref=e256]:
+                      - strong [ref=e257]: Morristown Chevrolet
+                    - listitem [ref=e258]:
+                      - link "5320 W ANDREW JOHNSON HWY MORRISTOWN, TN 37814" [ref=e259] [cursor=pointer]:
+                        - /url: https://www.google.com/maps?q=5320+W+ANDREW+JOHNSON+HWY,+MORRISTOWN,+TN+37814
+                        - text: 5320 W ANDREW JOHNSON HWY
+                        - generic [ref=e260]:
+                          - text: MORRISTOWN, TN
+                          - text: "37814"
+                  - list [ref=e261]:
+                    - listitem [ref=e262]:
+                      - strong [ref=e263]:
+                        - text: "Sales:"
+                        - link "423-716-6372" [ref=e264] [cursor=pointer]:
+                          - /url: tel:4237166372
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+                    - listitem:
+                      - strong
+          - generic [ref=e265]:
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - generic [ref=e269]:
+                  - heading "Vehicle Information" [level=2] [ref=e271]
+                  - generic [ref=e272]:
+                    - generic [ref=e273]: "VIN: 3GN7DNRP2TS109533"
+                    - generic [ref=e274]: "Stock #: TS109533"
+                    - generic [ref=e275]: "Model Code: 1MB48"
+                  - list [ref=e277]:
+                    - listitem [ref=e278]:
+                      - img "condition icon" [ref=e280]: 
+                      - generic [ref=e281]:
+                        - generic [ref=e282]: Condition
+                        - generic "New" [ref=e283]
+                    - listitem [ref=e284]:
+                      - generic [ref=e286]:
+                        - generic [ref=e287]: Body Style
+                        - generic "SUV" [ref=e288]
+                    - listitem [ref=e289]:
+                      - img "#0F52BA" [ref=e291]
+                      - generic [ref=e292]:
+                        - generic [ref=e293]: Exterior Color
+                        - generic "Riptide Blue Metallic" [ref=e294]
+                    - listitem [ref=e295]:
+                      - img "#000000" [ref=e297]
+                      - generic [ref=e298]:
+                        - generic [ref=e299]: Interior Color
+                        - generic "Black With Blue Accents, Evotex Seat Trim" [ref=e300]
+                    - listitem [ref=e301]:
+                      - img "Fuel Economy" [ref=e303]
+                      - generic [ref=e304]:
+                        - generic [ref=e305]: City/Highway
+                        - generic "109/109 MPG" [ref=e306]
+                    - listitem [ref=e307]:
+                      - generic [ref=e309]:
+                        - generic [ref=e310]: Engine
+                        - generic "NONE" [ref=e311]
+                    - listitem [ref=e312]:
+                      - generic [ref=e314]:
+                        - generic [ref=e315]: Transmission
+                        - generic "N/A / FWD" [ref=e316]
+                    - listitem [ref=e317]:
+                      - generic [ref=e319]:
+                        - generic [ref=e320]: Est. Battery Range
+                        - generic "319 mi" [ref=e321]
+                    - listitem [ref=e322]:
+                      - generic [ref=e324]:
+                        - generic [ref=e325]: Fuel Type
+                        - generic [ref=e326]: Electric Fuel System
+                - generic [ref=e328]:
+                  - heading "Highlighted Features" [level=2] [ref=e330]
+                  - generic [ref=e333]: Feature availability subject to final vehicle configuration. Please reference window sticker for more info.
+                  - generic [ref=e334]:
+                    - list [ref=e335]:
+                      - listitem [ref=e336]:
+                        - img [ref=e337]
+                        - generic [ref=e338]: Adaptive Cruise Control
+                      - listitem [ref=e339]:
+                        - img [ref=e340]
+                        - generic [ref=e341]: Heated Steering Wheel
+                      - listitem [ref=e342]:
+                        - img [ref=e343]
+                        - generic [ref=e344]: Remote Start
+                      - listitem [ref=e345]:
+                        - img [ref=e346]
+                        - generic [ref=e347]: Heated Seats
+                      - listitem [ref=e348]:
+                        - img [ref=e349]
+                        - generic [ref=e350]: Power Tailgate/Liftgate
+                      - listitem [ref=e351]:
+                        - img [ref=e352]
+                        - generic [ref=e353]: Wi-Fi Hotspot
+                      - listitem [ref=e354]:
+                        - img [ref=e355]
+                        - generic [ref=e356]: Auto Dimming Mirror
+                      - listitem [ref=e357]:
+                        - img [ref=e358]
+                        - generic [ref=e359]: Lane Departure Warning
+                    - button "View More Highlights..." [ref=e360] [cursor=pointer]
+              - generic [ref=e361]:
+                - generic [ref=e363]:
+                  - heading "Dealer Comments" [level=2] [ref=e364]
+                  - generic [ref=e365]:
+                    - text: 2026 Riptide Blue Metallic Chevrolet Equinox EV 4D Sport Utility LT FWD 1-Speed Automatic Electric Drive Unit 117/100 City/Highway MPG
+                    - text: "Proudly serving these areas: Morristown, Talbott, Jefferson City, Dandridge, White Pine, Newport, Knox County, All Tri-cities, including Kingsport, Johnson City, and Bristol. Also, Washington, Bradley County, Hamilton County, Greene County, Russellville, Grainger County, Cocke County, Sevier county, and many more. “Pricing not valid with any other offer or discount; plus tax and title fee; excludes $699 processing fee; all rebates/discounts/incentives are subject to change without notice.” Active Safety Package 2 (Enhanced Traffic Sign Recognition, HD Surround Vision, and Rear Pedestrian Alert), All-Weather Mat Package (All-Weather Cargo Area Liner and All-Weather Floor Mats), Comfort Package (Driver 8-Way Power Seat Adjuster, Heated Automatic Steering Wheel, Heated Driver and Front Passenger Seats Cushion and Seatback, Power Driver Lumbar Control, and Round Bottom Wrapped Steering Wheel), LT 2 Package, Preferred Equipment Group 2LT (Auto-Dimming Inside Rear-View Mirror), 19 Wheels, 4-Wheel Disc Brakes, 6 Speakers, 6-Speaker Audio System Feature, ABS brakes, Air Conditioning, Alloy wheels, AM/FM radio: SiriusXM with 360L, Ambient Multi-Color Interior Lighting, Auto High-beam Headlights, Auto-dimming Rear-View mirror, Automatic temperature control, Autosense Hands-Free Programmable Power Liftgate, Brake assist, Bright Roof Rails, Bumpers: body-color, Compass, Delay-off headlights, Driver and Front Passenger Illuminated Visors, Driver door bin, Driver vanity mirror, Dual front impact airbags, Dual front side impact airbags, Electronic Stability Control, Emergency communication system: OnStar and Chevrolet connected services capable, Evotex Seat Trim, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front Passenger 4-Way Manual Seat Adjuster, Front reading lights, Fully automatic headlights, Headlamps-Center Lit Bar, Heated door mirrors, Heated front seats, Heated steering wheel, Hitch Guidance, Hitch View, Illuminated entry, Knee airbag, Low tire pressure warning, Manual Folding Heated Outside Mirrors, Navigation system: Google built-in compatibility (select service plan required, terms and limitations apply), Occupant sensing airbag, Outside temperature display, Overhead airbag, Overhead console, Panic alarm, Passenger door bin, Passenger vanity mirror, Power door mirrors, Power driver seat, Power Liftgate, Power steering, Power windows, Power Windows with Driver Express-Up, Radio: 17.7 Diagonal Advanced Color LCD Display, Rear anti-roll bar, Rear reading lights, Rear seat center armrest, Rear window defroster, Rear window wiper, Remote keyless entry, Security system, SiriusXM with 360L Trial Subscription, Speed control, Split folding rear seat, Spoiler, Steering wheel mounted audio controls, Telescoping steering wheel, Tilt steering wheel, Traction control, Trip computer, Turn signal indicator mirrors, Variably intermittent wipers, and Wireless Phone Charging."
+                  - button "Read More..." [ref=e366] [cursor=pointer]
+                - generic [ref=e368]:
+                  - heading "Eligible Benefits" [level=2] [ref=e369]
+                  - link "LifeTime Warranty" [ref=e375] [cursor=pointer]:
+                    - /url: /exclusive-lifetime-warranty.html
+                    - img "LifeTime Warranty" [ref=e376]
+              - generic [ref=e379]:
+                - heading "All Features" [level=2] [ref=e380]
+                - tablist [ref=e382]:
+                  - tab "Entertainment" [ref=e383] [cursor=pointer]:
+                    - generic [ref=e384]: Entertainment
+                  - tab "Exterior" [ref=e385] [cursor=pointer]:
+                    - generic [ref=e386]: Exterior
+                  - tab "Interior" [ref=e387] [cursor=pointer]:
+                    - generic [ref=e388]: Interior
+                  - tab "Mechanical" [ref=e389] [cursor=pointer]:
+                    - generic [ref=e390]: Mechanical
+                  - tab "Package" [ref=e391] [cursor=pointer]:
+                    - generic [ref=e392]: Package
+                  - tab "Safety-interior" [ref=e393] [cursor=pointer]:
+                    - generic [ref=e394]: Safety-interior
+                  - tab "Safety-mechanical" [ref=e395] [cursor=pointer]:
+                    - generic [ref=e396]: Safety-mechanical
+                  - tab "Options" [ref=e397] [cursor=pointer]:
+                    - generic [ref=e398]: Options
+                  - tab "Specs" [ref=e399] [cursor=pointer]:
+                    - generic [ref=e400]: Specs
+                - tabpanel "Entertainment" [ref=e403]:
+                  - list [ref=e404]:
+                    - listitem [ref=e405]:
+                      - text: 5G Wi-Fi
+                      - superscript [ref=e406]: ®
+                      - text: hotspot capable
+                      - list [ref=e407]:
+                        - listitem [ref=e408]:
+                          - text: Service varies with conditions and location. Requires active service plan and paid AT&T
+                          - superscript [ref=e409]: ®
+                          - text: data plan. See
+                          - link "onstar.com" [ref=e410] [cursor=pointer]:
+                            - /url: http://www.onstar.com
+                          - text: for details and limitations.
+                    - listitem [ref=e411]:
+                      - text: SiriusXM with 360L Trial Subscription
+                      - list [ref=e412]:
+                        - listitem [ref=e413]:
+                          - text: With your trial subscription, new GM vehicles equipped with SiriusXM with 360L advance in-car technology will bring you closer to your favorite stars, artists, creators, hosts and athletes
+                          - superscript [ref=e414]: "1"
+                        - listitem [ref=e415]: SiriusXM with 360L transforms your ride with our most extensive and personalized radio experience on the road that lets you enjoy ad-free music, talk and news, live sports, comedy, podcasts and more
+                        - listitem [ref=e416]: Experience SiriusXM wherever you go in your vehicle and on the SiriusXM app with personalization features to make discovering your perfect entertainment easier than ever before
+                    - listitem [ref=e417]:
+                      - text: 17.7" diagonal color touchscreen display with Google built-in compatibility
+                      - list [ref=e418]:
+                        - listitem [ref=e419]:
+                          - text: Includes navigation capability
+                          - superscript [ref=e420]: "1"
+                        - listitem [ref=e421]: Connected apps and personalized profiles for each driver's setting
+                        - listitem [ref=e422]: Natural Voice Recognition
+                    - listitem [ref=e423]:
+                      - text: 6-speaker audio system
+                      - list [ref=e424]:
+                        - listitem [ref=e425]: Speakers are positioned throughout the cabin for an enjoyable listening experience
+              - generic [ref=e427]:
+                - heading "Warranty" [level=2] [ref=e428]
+                - list [ref=e430]:
+                  - listitem [ref=e431]: "Corrosion: 3 Years/36,000 Miles Rust-Through 6 Years/100,000 Miles"
+                  - listitem [ref=e432]: "Roadside Assistance: 5 Years/60,000 Miles Towing: 8 Years/100,000 Miles"
+                  - listitem [ref=e433]: "Warranty: <<< Preliminary 2026 Warranty >>>"
+                  - listitem [ref=e434]: "Hybrid/Electric Components: 8 Years/100,000 Miles"
+                  - listitem [ref=e435]: "Basic: 3 Years/36,000 Miles"
+                  - listitem [ref=e436]: "Maintenance: First Visit: 12 Months/12,000 Miles"
+                - button "Read More..." [ref=e437] [cursor=pointer]
+            - generic [ref=e438]:
+              - generic [ref=e439]: Vehicles You Might Like
+              - generic [ref=e440]:
+                - generic [ref=e441]:
+                  - generic [ref=e442]:
+                    - link "2026 Chevrolet Trax LS 2026 Chevrolet Trax LS" [ref=e444] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP5TC077008
+                      - generic [ref=e445]:
+                        - img "2026 Chevrolet Trax LS" [ref=e447]
+                        - img "2026 Chevrolet Trax LS" [ref=e449]
+                    - link "2026 Chevrolet Trax LS" [ref=e451] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP5TC077008
+                      - paragraph [ref=e452]:
+                        - generic [ref=e453]: 2026 Chevrolet Trax
+                        - generic [ref=e454]: LS
+                  - list [ref=e465]:
+                    - listitem [ref=e466]:
+                      - generic [ref=e467]:
+                        - generic [ref=e468]: $24,130
+                        - text: MSRP
+                      - generic [ref=e469]:
+                        - generic [ref=e470]: $392
+                        - text: Savings
+                  - link "View Vehicle" [ref=e472] [cursor=pointer]:
+                    - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP5TC077008
+                    - paragraph [ref=e473]:
+                      - strong [ref=e474]: View Vehicle
+                - generic [ref=e475]:
+                  - generic [ref=e476]:
+                    - link "2026 Chevrolet Trax LS 2026 Chevrolet Trax LS" [ref=e478] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP6TC060816
+                      - generic [ref=e479]:
+                        - img "2026 Chevrolet Trax LS" [ref=e481]
+                        - img "2026 Chevrolet Trax LS" [ref=e483]
+                    - link "2026 Chevrolet Trax LS" [ref=e485] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP6TC060816
+                      - paragraph [ref=e486]:
+                        - generic [ref=e487]: 2026 Chevrolet Trax
+                        - generic [ref=e488]: LS
+                  - list [ref=e499]:
+                    - listitem [ref=e500]:
+                      - generic [ref=e501]:
+                        - generic [ref=e502]: $25,125
+                        - text: MSRP
+                      - generic [ref=e503]:
+                        - generic [ref=e504]: $461
+                        - text: Savings
+                  - link "View Vehicle" [ref=e506] [cursor=pointer]:
+                    - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LS-KL77LFEP6TC060816
+                    - paragraph [ref=e507]:
+                      - strong [ref=e508]: View Vehicle
+                - generic [ref=e509]:
+                  - generic [ref=e510]:
+                    - link "2026 Chevrolet Trax LT 2026 Chevrolet Trax LT" [ref=e512] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LT-KL77LHEP0TC046230
+                      - generic [ref=e513]:
+                        - img "2026 Chevrolet Trax LT" [ref=e515]
+                        - img "2026 Chevrolet Trax LT" [ref=e517]
+                    - link "2026 Chevrolet Trax LT" [ref=e519] [cursor=pointer]:
+                      - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LT-KL77LHEP0TC046230
+                      - paragraph [ref=e520]:
+                        - generic [ref=e521]: 2026 Chevrolet Trax
+                        - generic [ref=e522]: LT
+                  - list [ref=e533]:
+                    - listitem [ref=e534]:
+                      - generic [ref=e535]:
+                        - generic [ref=e536]: $25,330
+                        - text: MSRP
+                      - generic [ref=e537]:
+                        - generic [ref=e538]: $428
+                        - text: Savings
+                  - link "View Vehicle" [ref=e540] [cursor=pointer]:
+                    - /url: https://www.morristownchevrolet.com/new-Morristown-2026-Chevrolet-Trax-LT-KL77LHEP0TC046230
+                    - paragraph [ref=e541]:
+                      - strong [ref=e542]: View Vehicle
+            - paragraph [ref=e544]: If provided, Advertised Price EXCLUDES all optional dealer offered items, accessories, or product addendums optionally selected by the purchaser, dealer document processing fee of $699 per TCA 55-17-114, and state and local taxes, tags, registration and title fees. Advertised prices INCLUDE factory-installed options installed by the manufacturer and non-optional dealer-installed accessories already installed on the vehicle by the dealer at time of advertising. For new vehicles, advertised price also includes MSRP and factory transportation costs. By submitting your information, you consent to receive all forms of communication including but not limited to phone, text, email, mail, etc. Message and data rates may apply. Consent to these terms is not a condition of purchase. You may opt out at any time. MPG based on model year EPA mileage ratings. Use for comparison purposes only. Discounts and incentives may be available to all of the general public, or may have certain conditions, such as being financed through a required specific lender, call Dealer for details. Certain used vehicles may be subject to important Wholesale to the Public disclosures provided to you prior to purchase; please consider carefully before your purchase decision. The Lifetime Limited Powertrain Warranty is offered on select vehicle makes and models. Not all vehicles qualify. Ask your dealership sales representative for details.
+            - paragraph [ref=e545]: The Manufacturer's Suggested Retail Price excludes tax, title, license, dealer fees and optional equipment. Dealer sets final price.
+        - text:       
+      - generic [ref=e546]:
+        - generic [ref=e547]:
+          - link [ref=e549] [cursor=pointer]:
+            - /url: https://www.hudsonauto.com/
+            - img [ref=e550]
+          - link [ref=e552] [cursor=pointer]:
+            - /url: /website-accessibility.html
+            - img [ref=e553]
+        - paragraph [ref=e554]: Price does not include dealer installed options or cost of optional equipment chosen by the purchaser.
+    - contentinfo [ref=e555]:
+      - generic [ref=e557]:
+        - 'img "Chevrolet: Together Lets Drive" [ref=e560]'
+        - list [ref=e562]:
+          - listitem [ref=e563]:
+            - link "DealerOn" [ref=e564] [cursor=pointer]:
+              - /url: https://www.dealeron.com/do-info/?utm_source=dealersite&utm_medium=referral&utm_campaign=Client_Sites
+              - img "DealerOn Logo" [ref=e565]
+          - listitem [ref=e566]:
+            - generic [ref=e567]:
+              - text: Copyright © 2026
+              - generic [ref=e568]:
+                - text: by
+                - link "DealerOn Home Page" [ref=e569] [cursor=pointer]:
+                  - /url: https://www.dealeron.com/do-info/?utm_source=dealersite&utm_medium=referral&utm_campaign=Client_Sites
+                  - text: DealerOn
+              - generic [ref=e570]:
+                - text: "|"
+                - link "Sitemap" [ref=e571] [cursor=pointer]:
+                  - /url: //www.morristownchevrolet.com/sitemap.aspx
+              - generic [ref=e572]:
+                - text: "|"
+                - link "Privacy" [ref=e573] [cursor=pointer]:
+                  - /url: //www.morristownchevrolet.com/privacy.aspx
+              - generic [ref=e574]:
+                - text: "|"
+                - link "Terms Of Use" [ref=e575] [cursor=pointer]:
+                  - /url: /terms-of-use.html
+              - generic [ref=e576]:
+                - text: "|"
+                - link "Privacy Notice" [ref=e577] [cursor=pointer]:
+                  - /url: /privacy-notice
+              - generic [ref=e578]:
+                - text: "| Morristown Chevrolet"
+                - generic [ref=e579]: "| 5320 W ANDREW JOHNSON HWY, MORRISTOWN, TN 37814"
+                - generic [ref=e580]: "| Sales: 423-716-6372"
+          - listitem
+  - complementary [active]:
+    - dialog "Privacy Information" [ref=e584]:
+      - generic [ref=e587]:
+        - heading "Privacy Information" [level=2] [ref=e588]
+        - generic:
+          - generic:
+            - generic: This website uses cookies to improve your experience. You can learn more in our Privacy Policy.
+      - generic [ref=e589]:
+        - generic [ref=e590]:
+          - button "More Information" [ref=e592] [cursor=pointer]
+          - link "Powered by Usercentrics Consent Management" [ref=e594] [cursor=pointer]:
+            - /url: https://www.usercentrics.com/en/consent-management-platform-powered-by-usercentrics/
+        - button "OK" [ref=e597] [cursor=pointer]
+```

@@ -1,0 +1,356 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - status [ref=e2]:
+    - paragraph [ref=e4]: This website is AudioEye enabled and is being optimized for accessibility. To open the AudioEye Toolbar, press "shift + =". Some assistive technologies may require the use of a passthrough function before this keystroke. For more information, activate the button labeled “Explore your accessibility options”.
+  - link "Skip to main content" [ref=e5] [cursor=pointer]:
+    - /url: "#page-body"
+  - banner [ref=e6]:
+    - generic [ref=e10]:
+      - paragraph [ref=e11]:
+        - link "500 Yarmouth Rd Hyannis, MA 02601" [ref=e12] [cursor=pointer]:
+          - /url: /dealership/directions.htm?selectedAccountId=premierbmwofcapecod
+      - list [ref=e13]:
+        - listitem [ref=e14]: "Sales: 888-306-0995"
+        - listitem [ref=e15]: "Service: 888-799-8840"
+        - listitem [ref=e16]: "Parts: 866-718-7154"
+    - generic [ref=e18]:
+      - link [ref=e21] [cursor=pointer]:
+        - /url: /
+        - img [ref=e22]
+      - generic [ref=e23]:
+        - paragraph [ref=e26]:
+          - link "BMW of Cape Cod" [ref=e27] [cursor=pointer]:
+            - /url: /
+        - navigation "Main" [ref=e28]:
+          - list [ref=e29]:
+            - button "Accessible Menu" [ref=e30] [cursor=pointer]
+            - listitem [ref=e31]:
+              - button "New" [ref=e32] [cursor=pointer]
+            - listitem [ref=e33]:
+              - button "Shop Electric" [ref=e34] [cursor=pointer]
+            - listitem [ref=e35]:
+              - button "BMW Certified & Pre-Owned" [ref=e36] [cursor=pointer]
+            - listitem [ref=e37]:
+              - button "Financing & Offers" [ref=e38] [cursor=pointer]
+            - listitem [ref=e39]:
+              - button "Service & Parts" [ref=e40] [cursor=pointer]
+            - listitem [ref=e41]:
+              - button "About Us" [ref=e42] [cursor=pointer]
+      - button "Open My Cars" [ref=e47] [cursor=pointer]:
+        - generic [ref=e48]: 
+    - generic [ref=e51]:
+      - text: Others pause; we progress. Exceptional offers on EVs continue. Lease a 2025 i4 eDrive40 for $399/mo for 36 mos.
+      - link "Click here to view offer details" [ref=e52] [cursor=pointer]:
+        - /url: /BMWEVi4
+  - main [ref=e55]:
+    - generic [ref=e57]:
+      - button "Share" [ref=e60] [cursor=pointer]:
+        - generic [ref=e62]: Share
+      - generic [ref=e66]:
+        - generic [ref=e67]: New 2026 BMW 2 Series xDrive Gran Coupe Photo 1 of 29
+        - button "Previous (Left Arrow)" [ref=e69] [cursor=pointer]
+        - button "Next (Right Arrow)" [ref=e71] [cursor=pointer]
+        - region "carousel-slider" [ref=e72]
+      - link "1 of 29 Photos" [ref=e88] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e89]: 
+        - generic [ref=e90]: 1 of 29 Photos
+    - generic [ref=e95]:
+      - heading "New 2026 BMW 2 Series xDrive" [level=1] [ref=e96]:
+        - generic [ref=e97]: New 2026 BMW
+        - text: 2 Series xDrive
+      - button "16 views in the past 7 days" [ref=e98] [cursor=pointer]:
+        - generic [ref=e99]: 16 views in the past 7 days
+    - generic [ref=e105]:
+      - generic [ref=e107]: 
+      - generic [ref=e108]:
+        - strong [ref=e110]: On the Lot
+        - generic [ref=e111]: at BMW of Cape Cod
+        - button "Location Details" [ref=e113] [cursor=pointer]
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - text: Exterior Color
+            - text: Alpine White Interior Color
+            - text: Oyster Body/Seating Gran Coupe/5 seats Fuel Economy 26/38 MPG City/Hwy
+            - button "Details" [ref=e127] [cursor=pointer]
+            - text: Transmission 7 speed automatic with auto-shift
+          - generic [ref=e128]: Drivetrain All-Wheel Drive Engine I-4 cyl VIN WBA23GG01T7U50781 Stock Number B7945
+        - generic [ref=e129]:
+          - heading "Highlighted Features" [level=3] [ref=e130]
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - generic [ref=e133]: 
+              - text: Navigation system
+            - listitem [ref=e134]:
+              - generic [ref=e135]: 
+              - text: Lane departure
+            - listitem [ref=e136]:
+              - generic [ref=e137]: 
+              - text: Automatic temperature control
+            - listitem [ref=e138]:
+              - generic [ref=e139]: 
+              - text: Emergency communication system
+            - listitem [ref=e140]:
+              - generic [ref=e141]: 
+              - text: Wireless phone connectivity
+            - listitem [ref=e142]:
+              - generic [ref=e143]: 
+              - text: Parking sensors
+            - listitem [ref=e144]:
+              - generic [ref=e145]: 
+              - text: Exterior parking camera rear
+            - listitem [ref=e146]:
+              - generic [ref=e147]: 
+              - text: Front dual zone A/C
+            - listitem [ref=e148]:
+              - generic [ref=e149]: 
+              - text: Auto high-beam headlights
+            - listitem [ref=e150]:
+              - generic [ref=e151]: 
+              - text: Rain sensing wipers
+            - listitem [ref=e152]:
+              - generic [ref=e153]: 
+              - text: Speed sensitive wipers
+            - listitem [ref=e154]:
+              - generic [ref=e155]: 
+              - text: Auto-dimming rearview mirror
+          - button "All 27 Highlights" [ref=e156] [cursor=pointer]
+        - generic [ref=e157]:
+          - heading "Stay home, stay safe – we’ll come to you" [level=3] [ref=e158]
+          - list [ref=e159]:
+            - listitem [ref=e160]:
+              - generic [ref=e163]:
+                - heading "Video walkaround" [level=4] [ref=e164]
+                - paragraph [ref=e165]: Experience this vehicle via video call and ask us any questions you have.
+                - button "Schedule a video call" [ref=e166] [cursor=pointer]
+            - listitem [ref=e167]:
+              - generic [ref=e170]:
+                - heading "Test drive at home" [level=4] [ref=e171]
+                - paragraph [ref=e172]: We’ll bring this vehicle to you for a no-obligation test drive.
+                - button "Request a test drive" [ref=e173] [cursor=pointer]
+            - listitem [ref=e174]:
+              - generic [ref=e177]:
+                - heading "Home delivery" [level=4] [ref=e178]
+                - paragraph [ref=e179]: We’ll deliver the vehicle you want to your home and help you complete the paperwork.
+                - button "Ask about delivery" [ref=e180] [cursor=pointer]
+        - generic [ref=e181]:
+          - heading "Included Packages & Accessories" [level=3] [ref=e182]
+          - list [ref=e183]:
+            - listitem [ref=e184]: Heated Steering Wheel
+            - listitem [ref=e185]: Sport Seats
+            - listitem [ref=e186]: Power Front Seats
+            - listitem [ref=e187]: Heated Front Seats
+        - generic [ref=e188]:
+          - heading "Included Packages & Options" [level=3] [ref=e189]
+          - generic [ref=e190]:
+            - strong [ref=e191]: Included Options
+            - generic [ref=e192]:
+              - generic [ref=e193]: Heated Steering Wheel
+              - strong [ref=e194]: $200
+        - generic [ref=e195]:
+          - heading "Detailed Specifications" [level=3] [ref=e196]
+          - button "Convenience Features" [ref=e201] [cursor=pointer]:
+            - heading "Convenience Features" [level=4] [ref=e202]:
+              - generic [ref=e203]:
+                - generic [ref=e204]: 
+                - text: Convenience Features
+          - button "Suspension/Handling" [ref=e209] [cursor=pointer]:
+            - heading "Suspension/Handling" [level=4] [ref=e210]:
+              - generic [ref=e211]:
+                - generic [ref=e212]: 
+                - text: Suspension/Handling
+          - button "Entertainment Features" [ref=e217] [cursor=pointer]:
+            - heading "Entertainment Features" [level=4] [ref=e218]:
+              - generic [ref=e219]:
+                - generic [ref=e220]: 
+                - text: Entertainment Features
+          - button "Warranty" [ref=e225] [cursor=pointer]:
+            - heading "Warranty" [level=4] [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e228]: 
+                - text: Warranty
+          - button "Seats and Trim" [ref=e233] [cursor=pointer]:
+            - heading "Seats and Trim" [level=4] [ref=e234]:
+              - generic [ref=e235]:
+                - generic [ref=e236]: 
+                - text: Seats and Trim
+          - button "Powertrain" [ref=e241] [cursor=pointer]:
+            - heading "Powertrain" [level=4] [ref=e242]:
+              - generic [ref=e243]:
+                - generic [ref=e244]: 
+                - text: Powertrain
+          - button "Body Exterior" [ref=e249] [cursor=pointer]:
+            - heading "Body Exterior" [level=4] [ref=e250]:
+              - generic [ref=e251]:
+                - generic [ref=e252]: 
+                - text: Body Exterior
+          - button "Specs and Dimensions" [ref=e257] [cursor=pointer]:
+            - heading "Specs and Dimensions" [level=4] [ref=e258]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: 
+                - text: Specs and Dimensions
+          - button "Lighting, Visibility and Instrumentation" [ref=e265] [cursor=pointer]:
+            - heading "Lighting, Visibility and Instrumentation" [level=4] [ref=e266]:
+              - generic [ref=e267]:
+                - generic [ref=e268]: 
+                - text: Lighting, Visibility and Instrumentation
+          - button "Safety and Security" [ref=e273] [cursor=pointer]:
+            - heading "Safety and Security" [level=4] [ref=e274]:
+              - generic [ref=e275]:
+                - generic [ref=e276]: 
+                - text: Safety and Security
+        - generic [ref=e277]:
+          - heading "Standard Features" [level=3] [ref=e278]
+          - button "Sport Seats" [ref=e283] [cursor=pointer]:
+            - heading "Sport Seats" [level=4] [ref=e284]:
+              - generic [ref=e285]:
+                - generic [ref=e286]: 
+                - text: Sport Seats
+        - generic [ref=e287]:
+          - heading "Dealer Notes" [level=3] [ref=e288]
+          - generic [ref=e289]:
+            - text: Heated Seats, Nav System, Moonroof, Premium Sound System, Back-Up Camera, All Wheel Drive, Aluminum Wheels, PREMIUM PACKAGE, SPORT SEATS, SPACE-SAVER SPARE. EPA 38 MPG Hwy/26 MPG City! Alpine White exterior and Oyster interior
+            - text: KEY FEATURES INCLUDE
+            - text: Navigation, All Wheel Drive, Back-Up Camera, Turbocharged, Premium Sound System. BMW 228 xDrive with Alpine White exterior and Oyster interior features a 4 Cylinder Engine with 241 HP at 4500 RPM*.
+            - text: OPTION PACKAGES
+            - text: PREMIUM PACKAGE Remote Engine Start, Black Roof & Mirror Caps, Panoramic Moonroof, SPACE-SAVER SPARE, HEATED STEERING WHEEL, SPORT SEATS Heated Front Seats (STD).
+            - text: WHY BUY FROM US
+            - text: Premier Companies offers the friendly individualized attention of a local store with best-in-class service to deliver a vehicle purchasing experience that exceeds expectations. We have proudly been in the automotive business serving our communities for over 30 years.
+            - text: Horsepower calculations based on trim engine configuration. Fuel economy calculations based on original manufacturer data for trim engine configuration. Please confirm the accuracy of the included equipment by calling us prior to purchase.
+        - generic [ref=e292]:
+          - heading [level=2] [ref=e293]
+          - generic [ref=e294]: "*Price Listed does not include $594documentation fee and a $5 title fee, Applicable Tax, Title, Tags, Processing, License, $995 Protect-All Protection, and any other dealer-installed options."
+          - generic [ref=e296]: "** Images, prices, and options shown, including vehicle color, trim, options, pricing and other specifications are subject to availability, incentive offerings, current pricing and credit worthiness. Retailer is not responsible for typos or informational errors, please confirm availability and vehicle information with the store prior to sale."
+      - generic [ref=e297]:
+        - generic [ref=e300]:
+          - button "Track Price on this 2026 BMW 2 Series xDrive" [ref=e301] [cursor=pointer]:
+            - generic [ref=e302]:
+              - generic [ref=e303]: 
+              - generic [ref=e304]: Track Price
+          - button "Save this 2026 BMW 2 Series xDrive" [ref=e305] [cursor=pointer]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: 
+              - generic [ref=e308]: Save
+        - generic [ref=e309]:
+          - generic [ref=e310]: MSRP $44,750
+          - generic [ref=e311]:
+            - generic [ref=e312]:
+              - button "See Your Exclusive Offer" [ref=e314] [cursor=pointer]
+              - button "Schedule Test Drive" [ref=e316] [cursor=pointer]
+            - link "Payment Options / Purchase Online" [ref=e318] [cursor=pointer]:
+              - /url: https://shop.bmwofcapecod.com/express/WBA23GG01T7U50781
+            - link "Value My Trade" [ref=e320] [cursor=pointer]:
+              - /url: "#"
+          - button "Schedule Your Appointment Now" [ref=e326] [cursor=pointer]
+          - generic [ref=e330]: We're here to help 888-306-0995
+          - img "2022-05-24 16_34_13-Audi Cape Cod_Premier- Update Doc_New Vehicles_5-22.png" [ref=e334]
+  - contentinfo [ref=e341]:
+    - generic [ref=e342]:
+      - link "Website by Dealer.com" [ref=e345] [cursor=pointer]:
+        - /url: https://www.dealer.com
+      - generic [ref=e346]:
+        - navigation "Footer":
+          - list [ref=e347]:
+            - listitem [ref=e348]:
+              - link "Directions" [ref=e349] [cursor=pointer]:
+                - /url: /dealership/directions.htm
+                - text: Directions
+                - generic [ref=e350]: 
+            - listitem [ref=e351]:
+              - link "Contact" [ref=e352] [cursor=pointer]:
+                - /url: /contact.htm
+                - text: Contact
+                - generic [ref=e353]: 
+            - listitem [ref=e354]:
+              - link "About" [ref=e355] [cursor=pointer]:
+                - /url: /dealership/about.htm
+                - text: About
+                - generic [ref=e356]: 
+            - listitem [ref=e357]:
+              - link "Privacy" [ref=e358] [cursor=pointer]:
+                - /url: /privacy.htm
+                - text: Privacy
+                - generic [ref=e359]: 
+            - listitem [ref=e360]:
+              - link "Sitemap" [ref=e361] [cursor=pointer]:
+                - /url: /sitemap.htm
+                - text: Sitemap
+                - generic [ref=e362]: 
+            - listitem [ref=e363]:
+              - link "bmwusa.com" [ref=e364] [cursor=pointer]:
+                - /url: https://www.bmwusa.com/
+                - text: bmwusa.com
+                - generic [ref=e365]: 
+      - generic [ref=e366]:
+        - link "Visit us on Facebook" [ref=e367] [cursor=pointer]:
+          - /url: https://www.facebook.com/BMWofCapeCod
+          - img [ref=e368]
+        - link "Visit us on Twitter" [ref=e372] [cursor=pointer]:
+          - /url: https://twitter.com/BMWCapeCod
+          - img [ref=e373]
+        - link "Visit us on Youtube" [ref=e377] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCzKeoy0Qw-Je0I6TALq8_Hw
+          - img [ref=e378]
+        - link "Visit us on Instagram" [ref=e382] [cursor=pointer]:
+          - /url: https://www.instagram.com/bmwofcapecod
+          - img [ref=e383]
+  - iframe
+  - generic [ref=e388] [cursor=pointer]: Schedule Service
+  - alertdialog "Cookie Consent Banner" [ref=e389]:
+    - generic [ref=e392]:
+      - generic [ref=e393]:
+        - generic [ref=e394]:
+          - generic [ref=e395]: Your Privacy & Cookies
+          - generic [ref=e397]:
+            - generic [ref=e398]: "Language:"
+            - combobox "Language Select" [ref=e399]:
+              - option "English" [selected]
+              - option "Spanish / Español"
+              - option "English / United Kingdom"
+              - option "Korean / 한국어"
+              - option "Vietnamese / Tiếng Việt Nam"
+              - option "Tagalog / Filipino"
+              - option "Chinese / 中文"
+              - option "German / Deutsch"
+              - option "French / Français"
+        - paragraph [ref=e401]:
+          - text: We respect consumer privacy rights by letting visitors opt out of third-party tracking cookies and honoring user-enabled global privacy controls, like the GPC signal. This site deploys cookies and similar tracking technologies, including
+          - strong [ref=e402]: essential cookies
+          - text: for necessary website features, accessibility, and cookie preferences (which may interact directly with, or be shared with, third-party service providers),
+          - strong [ref=e403]: functional cookies
+          - text: for error reporting and to remember settings and deliver optional functionality (including live-chat and other tools, enabling data collection and sharing with third parties),
+          - strong [ref=e404]: analytics cookies
+          - text: for measuring website statistics and user interactions, and
+          - strong [ref=e405]: targeting cookies
+          - text: for cross-site retargeted advertising. You can reject
+          - strong [ref=e406]: targeting cookies
+          - text: by pressing ‘Deny targeting cookies’, but we still use essential, functional, and analytics cookies. By pressing ‘Allow All Cookies’, you consent to the use of all cookies and the sharing of information they collect with third parties. By continuing to use this site, you agree to our
+          - link "Privacy Policy" [ref=e407] [cursor=pointer]:
+            - /url: https://www.drivepremier.com/privacy-policy.htm
+            - strong [ref=e408]: Privacy Policy
+          - text: ", which includes an"
+          - strong [ref=e409]: Arbitration Provision
+          - text: ", and details the categories of personal information we collect, the purposes for which the information is used, and how to manage your privacy rights."
+      - generic [ref=e410]:
+        - generic [ref=e413]:
+          - text: Powered by
+          - strong [ref=e414]:
+            - link "ComplyAuto" [ref=e415] [cursor=pointer]:
+              - /url: https://complyauto.com
+        - generic [ref=e416]:
+          - button "Allow all cookies" [ref=e417] [cursor=pointer]
+          - button "Deny targeting cookies" [ref=e418] [cursor=pointer]
+  - generic:
+    - complementary "Accessibility Help Desk" [ref=e419] [cursor=pointer]:
+      - button "Explore your accessibility options" [ref=e420]:
+        - generic [ref=e424]:
+          - generic [ref=e425]: 
+          - generic [ref=e426]: 
+    - img:
+      - generic:
+        - generic "close carousel"
+```

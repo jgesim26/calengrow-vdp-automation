@@ -1,0 +1,1453 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e5]:
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Skip to main content" [ref=e8] [cursor=pointer]:
+            - /url: "#skip-to-main"
+        - listitem [ref=e9]:
+          - link "Skip to Action Bar" [ref=e10] [cursor=pointer]:
+            - /url: "#actionbar"
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - 'link "New Sales: 985-876-5100" [ref=e14] [cursor=pointer]':
+            - /url: tel:9858765100
+          - 'link "Service: 985-872-5600" [ref=e15] [cursor=pointer]':
+            - /url: tel:9858725600
+          - 'link "Parts: 877-607-3468" [ref=e16] [cursor=pointer]':
+            - /url: tel:8776073468
+          - 'link "Collision: 985-876-1253" [ref=e17] [cursor=pointer]':
+            - /url: tel:9858761253
+        - generic [ref=e19]:
+          - generic [ref=e20]: "Open Today Sales: 8 AM-7 PM"
+          - generic [ref=e21]: "| Service: 7:30 AM-6 PM"
+        - generic [ref=e22]:
+          - img [ref=e25]
+          - link "339 St. Charles Street, Houma, LA 70360" [ref=e33] [cursor=pointer]:
+            - /url: https://maps.google.com/?q=339+St.+Charles+Street%2C+Houma%2C+LA%2C+70360
+      - generic [ref=e35]:
+        - link [ref=e37] [cursor=pointer]:
+          - /url: https://www.terrebonneford.com
+          - figure [ref=e38]:
+            - img "Ford Logo" [ref=e39]
+        - link [ref=e41] [cursor=pointer]:
+          - /url: https://www.terrebonneford.com
+          - figure [ref=e42]:
+            - img "Terrebonne Ford logo" [ref=e43]
+        - navigation [ref=e45]:
+          - list [ref=e46]:
+            - listitem [ref=e47] [cursor=pointer]:
+              - link "New Vehicles" [ref=e48]:
+                - /url: https://www.terrebonneford.com/new-vehicles/
+              - button "Show New Vehicles":
+                - generic: Show
+                - generic: New Vehicles
+            - listitem [ref=e49] [cursor=pointer]:
+              - link "Commercial" [ref=e50]:
+                - /url: https://www.terrebonneford.com/commercial/
+              - button "Show Commercial":
+                - generic: Show
+                - generic: Commercial
+            - listitem [ref=e51] [cursor=pointer]:
+              - link "Used Vehicles" [ref=e52]:
+                - /url: https://www.terrebonneford.com/used-vehicles/
+              - button "Show Used Vehicles":
+                - generic: Show
+                - generic: Used Vehicles
+            - listitem [ref=e53] [cursor=pointer]:
+              - link "Electric Vehicles" [ref=e54]:
+                - /url: https://www.terrebonneford.com/ev-ownership/
+              - button "Show Electric Vehicles":
+                - generic: Show
+                - generic: Electric Vehicles
+            - listitem [ref=e55] [cursor=pointer]:
+              - button "Show More" [ref=e56]:
+                - generic [ref=e57]: Show
+                - text: More
+        - button [ref=e59]:
+          - img [ref=e61]
+    - region "Site notice" [ref=e71]:
+      - generic [ref=e73]: 
+      - generic [ref=e74]: SAVE YOUR SATURDAYS.... TAKE ADVANTAGE OF OUR PICKUP & DELIVERY OR MOBILE SERVICE @ NO ADDED COST... SERVICE AND PARTS DEPARTMENTS ARE OPEN MON. -FRI 7:30AM - 6:00PM
+      - button "close site notice banner" [ref=e75] [cursor=pointer]:
+        - generic [ref=e76]: 
+  - generic [ref=e77]:
+    - main [ref=e78]:
+      - generic [ref=e79]:
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - heading "New 2025 Ford F-150 STX®" [level=1] [ref=e83]:
+                - strong [ref=e84]: New
+                - text: 2025 Ford F-150 STX®
+              - list [ref=e85]:
+                - listitem [ref=e86]: "VIN: 1FTEW2KPXSKE74958"
+                - listitem [ref=e87]: "Stock: 25T708"
+            - list [ref=e89]:
+              - listitem [ref=e90]:
+                - button "Save vehicle" [ref=e91] [cursor=pointer]:
+                  - img [ref=e92]
+              - listitem [ref=e95]:
+                - button "Compare vehicle" [ref=e96] [cursor=pointer]:
+                  - img [ref=e98]
+              - listitem [ref=e101]:
+                - link "Share this New 2025 Ford F-150 STX®" [ref=e102] [cursor=pointer]:
+                  - /url: "#shareModal"
+                  - generic [ref=e103]: 
+              - listitem [ref=e104]:
+                - link "Print this New 2025 Ford F-150 STX®" [ref=e105] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/printvdp
+                  - generic [ref=e106]: 
+          - text:   
+        - generic [ref=e107]:
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - button "SEE INSIDE" [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e121]: SEE INSIDE
+                - button "Check Button" [ref=e123] [cursor=pointer]:
+                  - img [ref=e126]:
+                    - img [ref=e127]
+                  - generic [ref=e133]: Hotspots
+              - button "expand nav button" [ref=e135] [cursor=pointer]:
+                - img [ref=e137]:
+                  - img [ref=e138]
+              - generic [ref=e141]:
+                - button "zoomIn control button" [ref=e142] [cursor=pointer]:
+                  - img [ref=e144]:
+                    - img [ref=e145]
+                - button "zoomOut control button" [ref=e147] [cursor=pointer]:
+                  - img [ref=e149]:
+                    - img
+              - generic [ref=e151]:
+                - img "Ford_F-150_Exterior Image" [ref=e152]
+                - button "hotspot_button_1" [ref=e153] [cursor=pointer]:
+                  - img [ref=e155]:
+                    - img [ref=e159]
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: View 360°
+                      - generic: Powered by Impel
+                    - generic:
+                      - generic:
+                        - img
+            - generic [ref=e167]:
+              - button "Photos button" [ref=e168] [cursor=pointer]:
+                - generic:
+                  - generic: "12"
+                - generic: Photos
+              - button "Features button" [ref=e169] [cursor=pointer]:
+                - generic:
+                  - generic: "47"
+                - generic: Features
+          - text: 
+        - generic [ref=e173]:
+          - generic [ref=e175]:
+            - generic [ref=e179]:
+              - link "MSRP $48,080" [ref=e181] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                - generic [ref=e182]: MSRP
+                - generic [ref=e183]: $48,080
+              - link "Dealer Savings -$2,580" [ref=e185] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                - generic [ref=e186]: Dealer Savings
+                - generic [ref=e187]: "-$2,580"
+              - generic [ref=e188]:
+                - link "Retail Bonus Cash -$500" [ref=e190] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e191]: Retail Bonus Cash
+                  - generic [ref=e192]: "-$500"
+                - link "Retail Bonus Cash -$1,250" [ref=e194] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e195]: Retail Bonus Cash
+                  - generic [ref=e196]: "-$1,250"
+                - link "Retail Customer Cash -$2,000" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e199]: Retail Customer Cash
+                  - generic [ref=e200]: "-$2,000"
+              - link "Terrebonne Price $41,750" [ref=e202] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                - strong [ref=e205]: Terrebonne Price
+                - strong [ref=e208]: $41,750
+              - separator
+              - generic [ref=e209]:
+                - paragraph [ref=e210]:
+                  - strong [ref=e211]: Conditional Offers
+                - link "2026 Military Recognition Exclusive Cash Reward -$500" [ref=e213] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e214]: 2026 Military Recognition Exclusive Cash Reward
+                  - generic [ref=e215]: "-$500"
+                - link "2025 F-150 SIRIUS VIN Specific Bonus Cash -$50" [ref=e217] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e218]: 2025 F-150 SIRIUS VIN Specific Bonus Cash
+                  - generic [ref=e219]: "-$50"
+                - link "2026 First Responder Recognition Exclusive Cash Reward -$500" [ref=e221] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e222]: 2026 First Responder Recognition Exclusive Cash Reward
+                  - generic [ref=e223]: "-$500"
+                - link "2026 Farm Bureau Recognition Exclusive Cash Reward -$500" [ref=e225] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e226]: 2026 Farm Bureau Recognition Exclusive Cash Reward
+                  - generic [ref=e227]: "-$500"
+                - link "2026 College Student Recognition Exclusive Cash Reward Pgm. -$750" [ref=e229] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kpxske74958/
+                  - generic [ref=e230]: 2026 College Student Recognition Exclusive Cash Reward Pgm.
+                  - generic [ref=e231]: "-$750"
+            - link "Details" [ref=e232] [cursor=pointer]:
+              - /url: "#modal__advanced-pricing"
+              - generic [ref=e233]: 
+              - text: Details
+          - generic [ref=e237]: In-Service FCTP
+          - generic [ref=e238]:
+            - link "Calculate Your Payment" [ref=e240] [cursor=pointer]:
+              - /url: "#"
+            - button "VIP Test Drive" [ref=e245] [cursor=pointer]
+            - img "Ford Motor Credit Company Click to Get Prequalified" [ref=e249] [cursor=pointer]
+            - link "Value Your Trade" [ref=e251] [cursor=pointer]:
+              - /url: "#accutradeWidget"
+            - link "Ask a Question" [ref=e253] [cursor=pointer]:
+              - /url: "#modal__gform_16"
+      - generic [ref=e255]:
+        - generic:
+          - generic:
+            - generic:
+              - heading [level=2]
+              - generic:
+                - paragraph
+                - paragraph
+        - link "PureCars Trade Report" [ref=e261] [cursor=pointer]:
+          - /url: https://urldefense.com/v3/__https://clients.purecars.com/trade/ui/1570c61f-1928-49f2-b658-27a0dd6b5aaa?pcuid=*7Bpc_pcuid*7D&pcsid=*7Bpc_psid*7D&interest=*7Bpc_vin*7D__;JSUlJSUl!!KxydHg!SHkUlkK2IRdLkbNiSMvabK78Jfp0S5uSfR726km_KWe8fXp4Iu43a62kx5JlSkGF52dGfgXjATEICGio$
+          - img "PureCars Trade Report" [ref=e262]
+        - generic [ref=e265]:
+          - heading "Basic Info" [level=2] [ref=e266]
+          - list [ref=e270]:
+            - listitem [ref=e271]:
+              - generic [ref=e272]: "Exterior:"
+              - generic [ref=e273]: Agate Black Metallic
+            - listitem [ref=e274]:
+              - generic [ref=e275]: "Drivetrain:"
+              - generic [ref=e276]: RWD
+            - listitem [ref=e277]:
+              - generic [ref=e278]: "Interior:"
+              - generic [ref=e279]: Black
+            - listitem [ref=e280]:
+              - generic [ref=e281]: "Transmission:"
+              - generic [ref=e282]: Automatic
+            - listitem [ref=e283]:
+              - generic [ref=e284]: "Engine:"
+              - generic [ref=e285]: 2.7L V6 EcoBoost
+            - listitem [ref=e286]:
+              - generic [ref=e287]: "Fuel Efficiency:"
+              - generic [ref=e288]: 19 CITY / 25 HWY
+        - generic [ref=e291]:
+          - heading "Key Features" [level=2] [ref=e292]
+          - list [ref=e295]:
+            - listitem [ref=e296]:
+              - img [ref=e297]
+              - generic [ref=e299]: 2WD
+            - listitem [ref=e300]:
+              - img [ref=e301]
+              - generic [ref=e305]: Backup Camera
+            - listitem [ref=e306]:
+              - img [ref=e307]
+              - generic [ref=e317]: Blind Spot Monitor
+            - listitem [ref=e318]:
+              - img [ref=e319]
+              - generic [ref=e321]: Bluetooth
+            - listitem [ref=e322]:
+              - img [ref=e323]
+              - generic [ref=e331]: Fog Lights
+            - listitem [ref=e332]:
+              - img [ref=e333]
+              - generic [ref=e335]: Interior Accents
+            - listitem [ref=e336]:
+              - img [ref=e337]
+              - generic [ref=e339]: Keyless Entry
+            - listitem [ref=e340]:
+              - img [ref=e341]
+              - generic [ref=e348]: Lane Departure Warning
+            - listitem [ref=e349]:
+              - img [ref=e350]
+              - generic [ref=e357]: Parking Sensors / Assist
+            - listitem [ref=e358]:
+              - img [ref=e359]
+              - generic [ref=e371]: Satellite Radio Ready
+            - listitem [ref=e372]:
+              - img [ref=e373]
+              - generic [ref=e380]: Side-Impact Air Bags
+            - listitem [ref=e381]:
+              - img [ref=e382]
+              - generic [ref=e384]: Tow Package
+            - listitem [ref=e385]:
+              - img [ref=e386]
+              - generic [ref=e397]: WiFi Hotspot
+        - generic [ref=e399]:
+          - generic [ref=e401]:
+            - link "Schedule Test Drive" [ref=e403] [cursor=pointer]:
+              - /url: "#modal__gform_7"
+              - generic [ref=e404]: Schedule Test Drive
+            - link "Check Availability" [ref=e406] [cursor=pointer]:
+              - /url: "#modal__gform_10"
+              - generic [ref=e407]: Check Availability
+            - link "Window Sticker" [ref=e409] [cursor=pointer]:
+              - /url: https://www.windowsticker.forddirect.com/windowsticker.pdf?token=Iu41FBGhKORIsL6pEyBvRNIc1RSVV3o4LU4rFTaExH9ytzN9lCJ8gzNRi3FaS%2BWLpNg29ZhdI19zZ3MGPYCpW%2BGOnoAkDPs8dJpdmxnGMdd%2BG3rwUB1nfpA%2B5wPXJ6YVmFaJ9O862LneQ%2F2UQH6KkiS0JZFZvCclnUj2lSkGMhE%3D
+              - generic [ref=e410]: Window Sticker
+          - generic [ref=e413]:
+            - generic [ref=e415]:
+              - heading "Feature Highlights" [level=1] [ref=e416]
+              - generic [ref=e417]: i
+            - generic [ref=e418]:
+              - generic [ref=e419]:
+                - generic [ref=e421] [cursor=pointer]: All (47)
+                - generic [ref=e423] [cursor=pointer]: Convenience (14)
+                - generic [ref=e425] [cursor=pointer]: Safety (17)
+                - generic [ref=e427] [cursor=pointer]: Performance (7)
+                - generic [ref=e429] [cursor=pointer]: Technology (9)
+              - generic [ref=e431]:
+                - generic [ref=e432]:
+                  - generic [ref=e433]:
+                    - img "Blind Spot Information System" [ref=e434]
+                    - img [ref=e437] [cursor=pointer]
+                  - generic [ref=e440]:
+                    - generic [ref=e441]: Blind Spot Information System
+                    - text: Can alert you to a vehicle detected alongside and difficult to see in a blind spot. The system uses radar sensors on both sides near the rear of the vehicle. When a vehicle is detected in your blind spot, you are alerted with an indicator light in the sideview mirror.
+                  - button "More" [ref=e443] [cursor=pointer]
+                - generic [ref=e444]:
+                  - generic [ref=e445]:
+                    - img "Ford Co-Pilot360™ Technology" [ref=e446]
+                    - img [ref=e449] [cursor=pointer]
+                  - generic [ref=e452]:
+                    - generic [ref=e453]: Ford Co-Pilot360™ Technology
+                    - text: Helps keep you in command, from the driveway to the highway, with an advanced suite of standard driver-assist technologies. Ford Co-Pilot360™ aims to help you drive more safely and confidently amid rising congestion and distractions.
+                  - button "More" [ref=e455] [cursor=pointer]
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - img "Cross-Traffic Alert" [ref=e458]
+                    - img [ref=e461] [cursor=pointer]
+                  - generic [ref=e464]:
+                    - generic [ref=e465]: Cross-Traffic Alert
+                    - text: Uses radar to watch for traffic behind your vehicle as you're slowly backing out of a parking spot or driveway. If cross-traffic sensors detect a vehicle approaching from up to 15 yards away, you will be audibly and visually alerted.
+                  - button "More" [ref=e467] [cursor=pointer]
+                - generic [ref=e468]:
+                  - generic [ref=e469]:
+                    - img "Lane-Keeping System" [ref=e470]
+                    - img [ref=e473] [cursor=pointer]
+                  - generic [ref=e476]:
+                    - generic [ref=e477]: Lane-Keeping System
+                    - text: "Can alert you to unintentional lane drifting. Choose the Lane-Keeping alert mode that vibrates the steering wheel when you drift too close to a lane marker — or the Lane-Keeping Aid mode that activates a directional steering torque to help guide you back to the center of the lane. Or combine the effects of both modes: Continue drifting after the steering torque is activated and the steering wheel adds the vibrating sensation."
+                  - button "More" [ref=e479] [cursor=pointer]
+                - generic [ref=e480]:
+                  - generic [ref=e481]:
+                    - img "Reverse Sensing System" [ref=e482]
+                    - img [ref=e485] [cursor=pointer]
+                  - generic [ref=e488]:
+                    - generic [ref=e489]: Reverse Sensing System
+                    - text: Alerts you using a series of beeps if you near an object while slowly backing up. The closer you get to the object, the faster the beeps.
+                  - button "More" [ref=e491] [cursor=pointer]
+                - generic [ref=e492]:
+                  - generic [ref=e493]:
+                    - img "Evasive Steering Assist" [ref=e494]
+                    - img [ref=e497] [cursor=pointer]
+                  - generic [ref=e500]:
+                    - generic [ref=e501]: Evasive Steering Assist
+                    - text: Can help you avoid a potential collision with a slower-moving or stopped vehicle detected in front of you. It can provide steering support when there's no time to avoid hitting something by braking alone.
+                  - button "More" [ref=e503] [cursor=pointer]
+                - generic [ref=e504]:
+                  - img "Post-Collision Braking" [ref=e506]
+                  - generic [ref=e507]:
+                    - generic [ref=e508]: Post-Collision Braking
+                    - text: Can potentially lessen the severity of a secondary collision by automatically applying moderate brake pressure when an initial collision is detected in an attempt to slow down the vehicle and potentially lessen injury to occupants and damage to the vehicle.
+                  - button "More" [ref=e510] [cursor=pointer]
+                - generic [ref=e511]:
+                  - generic [ref=e512]:
+                    - img "Apple CarPlay™" [ref=e513]
+                    - img [ref=e516] [cursor=pointer]
+                  - generic [ref=e519]:
+                    - generic [ref=e520]: Apple CarPlay™
+                    - text: Lets you use Siri® to interact with your iPhone®. Make calls, return missed calls and listen to voicemail, as well as send, read and reply to text messages, and even access your favorite songs and playlists. Apple Maps provides convenient turn-by-turn directions, traffic conditions and estimated travel time.
+                  - button "More" [ref=e522] [cursor=pointer]
+                - generic [ref=e523]:
+                  - generic [ref=e524]:
+                    - img "Android Auto™" [ref=e525]
+                    - img [ref=e528] [cursor=pointer]
+                  - generic [ref=e531]:
+                    - generic [ref=e532]: Android Auto™
+                    - text: Allows you to use Google™ to interact with your Android™ while keeping your eyes on the road and hands on the wheel. With Android Auto, you can interact with your Google Maps™ to receive voice-guided navigation, live traffic information and estimated travel time. You can also connect to Google Now and Google Music.
+                  - button "More" [ref=e534] [cursor=pointer]
+                - generic [ref=e535]:
+                  - img "Rear-Wheel Drive" [ref=e537]
+                  - generic [ref=e538]:
+                    - generic [ref=e539]: Rear-Wheel Drive
+                    - text: Comes equipped with rear-wheel drive to maximize performance and design. RWD architecture enables a sportier, more athletic design and improved on and off-road capability.
+                  - button "More" [ref=e541] [cursor=pointer]
+                - generic [ref=e542]:
+                  - generic [ref=e543]:
+                    - img "Auto High-Beam Headlamps" [ref=e544]
+                    - img [ref=e547] [cursor=pointer]
+                  - generic [ref=e550]:
+                    - generic [ref=e551]: Auto High-Beam Headlamps
+                    - text: Can sense poor lighting conditions and switch on to light your path ahead, so unlit roads, dark peripheries and other low-visibility situations don't have to catch you off guard. They can even sense oncoming headlights and dim automatically, so you don't have to worry about blinding other drivers.
+                  - button "More" [ref=e553] [cursor=pointer]
+                - generic [ref=e554]:
+                  - generic [ref=e555]:
+                    - img "FordPass Connect™" [ref=e556]
+                    - img [ref=e559] [cursor=pointer]
+                  - generic [ref=e562]:
+                    - generic [ref=e563]: FordPass Connect™
+                    - text: "Allows drivers to monitor and control their vehicle in incredibly powerful ways and provides the following functionality: start and stop, lock and unlock from just about anywhere, schedule a start and check fuel and fluid levels."
+                  - button "More" [ref=e565] [cursor=pointer]
+                - generic [ref=e566]:
+                  - generic [ref=e567]:
+                    - img "Electric Parking Brake" [ref=e568]
+                    - img [ref=e571] [cursor=pointer]
+                  - generic [ref=e574]:
+                    - generic [ref=e575]: Electric Parking Brake
+                    - text: Uses a motor at each rear caliper in place of a mechanically operated cable. This means you can set the brake using a switch instead of a lever.
+                  - button "More" [ref=e577] [cursor=pointer]
+                - generic [ref=e578]:
+                  - generic [ref=e579]:
+                    - img "Heated Exterior Mirrors" [ref=e580]
+                    - img [ref=e583] [cursor=pointer]
+                  - generic [ref=e586]:
+                    - generic [ref=e587]: Heated Exterior Mirrors
+                    - text: Clear the outside mirrors of snow or mist faster, so you can get on the road quicker.
+                  - button "More" [ref=e589] [cursor=pointer]
+                - generic [ref=e590]:
+                  - img "Fog Lamps" [ref=e592]
+                  - generic [ref=e593]:
+                    - generic [ref=e594]: Fog Lamps
+                    - text: Provide added illumination under misty conditions.
+                  - button "More" [ref=e596] [cursor=pointer]
+                - generic [ref=e597]:
+                  - generic [ref=e598]:
+                    - img "Trailer Sway Control" [ref=e599]
+                    - img [ref=e602] [cursor=pointer]
+                  - generic [ref=e605]:
+                    - generic [ref=e606]: Trailer Sway Control
+                    - text: Uses gyroscopic sensors and applies a combination of reduced engine power and selective wheel braking to help maintain the stability of the vehicle and the trailer in tow.
+                  - button "More" [ref=e608] [cursor=pointer]
+                - generic [ref=e609]:
+                  - img "Hill Start Assist" [ref=e611]
+                  - generic [ref=e612]:
+                    - generic [ref=e613]: Hill Start Assist
+                    - text: Can help you switch from brake to gas without rolling backward. The system is activated automatically when you press the brake pedal on a slope.
+                  - button "More" [ref=e615] [cursor=pointer]
+                - generic [ref=e616]:
+                  - img "Driver Alert" [ref=e618]
+                  - generic [ref=e619]:
+                    - generic [ref=e620]: Driver Alert
+                    - text: Recognizes repeated lane drifting as a sign of tiredness and issue visual and audio alerts that it's time to pull over and take a break.
+                  - button "More" [ref=e622] [cursor=pointer]
+                - generic [ref=e623]:
+                  - generic [ref=e624]:
+                    - img "AdvanceTrac Electronic Stability Control" [ref=e625]
+                    - img [ref=e628] [cursor=pointer]
+                  - generic [ref=e631]:
+                    - generic [ref=e632]: AdvanceTrac Electronic Stability Control
+                    - text: Helps you maintain control in adverse driving situations or when making quick maneuvers. Traction control helps keep your wheels from spinning when you're pushing the gas pedal or from losing their grip on the road, while ESC helps prevent sliding sideways and skidding.
+                  - button "More" [ref=e634] [cursor=pointer]
+                - generic [ref=e635]:
+                  - img "USB Port" [ref=e637]
+                  - generic [ref=e638]:
+                    - generic [ref=e639]: USB Port
+                    - text: Keeps your devices humming.
+                  - button "More" [ref=e641] [cursor=pointer]
+                - generic [ref=e642]:
+                  - generic [ref=e643]:
+                    - img "Auto Start-Stop Technology" [ref=e644]
+                    - img [ref=e647] [cursor=pointer]
+                  - generic [ref=e650]:
+                    - generic [ref=e651]: Auto Start-Stop Technology
+                    - text: Not only helps reduce fuel consumption and emissions, but it can also potentially save you money at the pump. The system automatically shuts off the engine when it's not needed — such as when you're idling at a traffic light. If the situation calls for it, you can turn off this feature with the press of a button on the center console.
+                  - button "More" [ref=e653] [cursor=pointer]
+                - generic [ref=e654]:
+                  - generic [ref=e655]:
+                    - img "60/40 Split-Fold-Flat Rear Seat Backs" [ref=e656]
+                    - img [ref=e659] [cursor=pointer]
+                  - generic [ref=e662]:
+                    - generic [ref=e663]: 60/40 Split-Fold-Flat Rear Seat Backs
+                    - text: Gives you extra room in the back. Fold the back row of seats up to accommodate extra friends, or down to haul cargo.
+                  - button "More" [ref=e665] [cursor=pointer]
+                - generic [ref=e666]:
+                  - img "Reverse Brake Assist" [ref=e668]
+                  - generic [ref=e669]:
+                    - generic [ref=e670]: Reverse Brake Assist
+                    - text: Helps alert you to any objects you may be missing while slowly backing up with increasing audio and visual warnings. The system can detect both stationary and moving objects, including people and vehicles behind the SUV, and can even apply the brakes to help prevent a collision.
+                  - button "More" [ref=e672] [cursor=pointer]
+                - generic [ref=e673]:
+                  - generic [ref=e674]:
+                    - img "Remote Start" [ref=e675]
+                    - img [ref=e678] [cursor=pointer]
+                  - generic [ref=e681]:
+                    - generic [ref=e682]: Remote Start
+                    - text: Lets you enjoy the comfort and convenience of a prewarmed or precooled vehicle.
+                  - button "More" [ref=e684] [cursor=pointer]
+                - generic [ref=e685]:
+                  - generic [ref=e686]:
+                    - img "Tailgate Step" [ref=e687]
+                    - img [ref=e690] [cursor=pointer]
+                  - generic [ref=e693]:
+                    - generic [ref=e694]: Tailgate Step
+                    - text: Makes it easier to access all of the payload your truck can carry. The step is stowed inside the tailgate and can be easily accessed when needed.
+                  - button "More" [ref=e696] [cursor=pointer]
+                - generic [ref=e697]:
+                  - img "Cruise Control" [ref=e699]
+                  - generic [ref=e700]:
+                    - generic [ref=e701]: Cruise Control
+                    - text: Set your speed and cruise control maintains it.
+                  - button "More" [ref=e703] [cursor=pointer]
+                - generic [ref=e704]:
+                  - img "Traction Control" [ref=e706]
+                  - generic [ref=e707]:
+                    - generic [ref=e708]: Traction Control
+                    - text: Helps maintain your vehicle's grip on the road in unfavorable conditions. When the system senses a loss of traction, it applies selective braking in order to keep your wheels from excessively spinning and help maintain traction.
+                  - button "More" [ref=e710] [cursor=pointer]
+                - generic [ref=e711]:
+                  - generic [ref=e712]:
+                    - img "FordPass App" [ref=e713]
+                    - img [ref=e716] [cursor=pointer]
+                  - generic [ref=e719]:
+                    - generic [ref=e720]: FordPass App
+                    - text: Earn Points with FordPass Rewards, schedule service, access 24/7 Roadside Assistance and control your vehicle remotely all with FordPass.
+                  - button "More" [ref=e722] [cursor=pointer]
+                - generic [ref=e723]:
+                  - generic [ref=e724]:
+                    - img "SYNC® 4" [ref=e725]
+                    - img [ref=e728] [cursor=pointer]
+                  - generic [ref=e731]:
+                    - generic [ref=e732]: SYNC® 4
+                    - text: Advanced wireless integration, voice recognition, real-time traffic, weather, construction and other features make life on the go easy. Includes Ford Power-Up software updates and simple smartphone integration with SiriusXM with 360L.
+                  - button "More" [ref=e734] [cursor=pointer]
+                - generic [ref=e735]:
+                  - img "Intersection Assist" [ref=e737]
+                  - generic [ref=e738]:
+                    - generic [ref=e739]: Intersection Assist
+                    - text: Employs camera and radar sensor technology to detect any oncoming traffic when you are turning through an intersection.
+                  - button "More" [ref=e741] [cursor=pointer]
+                - generic [ref=e742]:
+                  - img "Independent Front Suspension" [ref=e744]
+                  - generic [ref=e745]:
+                    - generic [ref=e746]: Independent Front Suspension
+                    - text: A double A-arm front suspension with nitrogen-pressurized shocks helps keep you comfortable and in control over even the most rugged off-road terrain.
+                  - button "More" [ref=e748] [cursor=pointer]
+                - generic [ref=e749]:
+                  - img "EcoBoost® Engine" [ref=e751]
+                  - generic [ref=e752]:
+                    - generic [ref=e753]: EcoBoost® Engine
+                    - text: The EcoBoost Engine delivers powerful performance and better fuel economy than larger displacement engines. In most conventional engines, some energy is lost in the exhaust. But in the EcoBoost, the turbocharger uses the force of the exhaust to push more air into the engine, generating more power. This means a highly responsive drive with great low-speed torque and outstanding overall performance.
+                  - button "More" [ref=e755] [cursor=pointer]
+                - generic [ref=e756]:
+                  - img "Voice Assistance" [ref=e758]
+                  - generic [ref=e759]:
+                    - generic [ref=e760]: Voice Assistance
+                    - text: Use your voice to call/text friends, listen to music, set reminders, check the weather, even change the temperature in the car. Depending on your default voice assistant, say “Alexa” or “Hey Google” to get the assistance you’re looking for and even control certain vehicle functions or compatible smart home devices.
+                  - button "More" [ref=e762] [cursor=pointer]
+                - generic [ref=e763]:
+                  - generic [ref=e764]:
+                    - img "BLIS with Trailer Coverage" [ref=e765]
+                    - img [ref=e768] [cursor=pointer]
+                  - generic [ref=e771]:
+                    - generic [ref=e772]: BLIS with Trailer Coverage
+                    - text: Alerts you to vehicles in your blind spots and detects traffic in the lanes beside what you’re towing.
+                  - button "More" [ref=e774] [cursor=pointer]
+                - generic [ref=e775]:
+                  - img "Lane Departure Warning" [ref=e777]
+                  - generic [ref=e778]:
+                    - generic [ref=e779]: Lane Departure Warning
+                    - text: Detects lane markings on the road and notifies you if your vehicle begins to drift onto or over the designated lane markings, prompting you to take corrective action.
+                  - button "More" [ref=e781] [cursor=pointer]
+                - generic [ref=e782]:
+                  - img "Touchscreen Infotainment System" [ref=e784]
+                  - generic [ref=e785]:
+                    - generic [ref=e786]: Touchscreen Infotainment System
+                    - text: Provides easy access to music, sports, entertainment and other apps. Just touch or press on the in-vehicle touchscreen and effortlessly navigate to the desired application in the system.
+                  - button "More" [ref=e788] [cursor=pointer]
+                - generic [ref=e789]:
+                  - img "Bluetooth Connectivity" [ref=e791]
+                  - generic [ref=e792]:
+                    - generic [ref=e793]: Bluetooth Connectivity
+                    - text: Lets you connect supported devices, like your mobile phone, to your radio/nav system.
+                  - button "More" [ref=e795] [cursor=pointer]
+                - generic [ref=e796]:
+                  - img "Deep-Tinted Glass" [ref=e798]
+                  - generic [ref=e799]:
+                    - generic [ref=e800]: Deep-Tinted Glass
+                    - text: Offer privacy for yourself and your passengers.
+                  - button "More" [ref=e802] [cursor=pointer]
+                - generic [ref=e803]:
+                  - img "Delay-Off Headlights" [ref=e805]
+                  - generic [ref=e806]:
+                    - generic [ref=e807]: Delay-Off Headlights
+                    - text: Illuminate the path forward, even after the engine is off. Delay-off headlights remain on for a short time after exiting the vehicle to help guide you.
+                  - button "More" [ref=e809] [cursor=pointer]
+                - generic [ref=e810]:
+                  - img "Performance Seats" [ref=e812]
+                  - generic [ref=e813]:
+                    - generic [ref=e814]: Performance Seats
+                    - text: Provide increased support and comfort while adding a sporty look to your vehicle.
+                  - button "More" [ref=e816] [cursor=pointer]
+                - generic [ref=e817]:
+                  - img "Illuminated Entry" [ref=e819]
+                  - generic [ref=e820]:
+                    - generic [ref=e821]: Illuminated Entry
+                    - text: Courtesy lights illuminate when the vehicle is unlocked, so you're never in the dark.
+                  - button "More" [ref=e823] [cursor=pointer]
+                - generic [ref=e824]:
+                  - img "Power Door Mirrors" [ref=e826]
+                  - generic [ref=e827]:
+                    - generic [ref=e828]: Power Door Mirrors
+                    - text: Feature electrical motors for vertical and horizontal adjustment from inside the vehicle.
+                  - button "More" [ref=e830] [cursor=pointer]
+                - generic [ref=e831]:
+                  - img "Remote Keyless Entry" [ref=e833]
+                  - generic [ref=e834]:
+                    - generic [ref=e835]: Remote Keyless Entry
+                    - text: Allows owners to unlock their vehicle with the click of a button from a key fob, keychain or on the key itself.
+                  - button "More" [ref=e837] [cursor=pointer]
+                - generic [ref=e838]:
+                  - img "Security System" [ref=e840]
+                  - generic [ref=e841]:
+                    - generic [ref=e842]: Security System
+                    - text: Helps to deter unauthorized persons from attempting to enter your vehicle.
+                  - button "More" [ref=e844] [cursor=pointer]
+                - generic [ref=e845]:
+                  - 'img "Split Folding Rear Seat: 60/40" [ref=e847]'
+                  - generic [ref=e848]:
+                    - generic [ref=e849]: "Split Folding Rear Seat: 60/40"
+                    - text: Folds to allow for extra trunk space when needed. A 60/40 configuration means you can fold down 40% (one seat), 60% (one seat, plus the middle section) or 100% (all seats) depending on your needs.
+                  - button "More" [ref=e851] [cursor=pointer]
+                - generic [ref=e852]:
+                  - img "Steering Wheel Mounted Audio Controls" [ref=e854]
+                  - generic [ref=e855]:
+                    - generic [ref=e856]: Steering Wheel Mounted Audio Controls
+                    - text: Make it easy for you to change stations or adjust the volume while keeping your focus on the road ahead.
+                  - button "More" [ref=e858] [cursor=pointer]
+                - generic [ref=e859]:
+                  - img "Telescoping Steering Wheel" [ref=e861]
+                  - generic [ref=e862]:
+                    - generic [ref=e863]: Telescoping Steering Wheel
+                    - text: Allows easy repositioning, so you can enjoy a more comfortable drive.
+                  - button "More" [ref=e865] [cursor=pointer]
+                - button "right nav button" [ref=e867] [cursor=pointer]:
+                  - img [ref=e869]:
+                    - img [ref=e870]
+            - button "See All" [ref=e874] [cursor=pointer]
+        - generic [ref=e877]:
+          - heading "Description" [level=2] [ref=e878]
+          - generic [ref=e880]:
+            - text: "Factory MSRP: $48,080 Dealer Discount of $2,580 off MSRP Black Metallic 2025 Ford F-150 STX RWD 10-Speed Automatic 2.7L V6 EcoBoost **AUTO CHECK REPORT AVAILABLE ON EACH VEHICLE**, NITROFILL TIRES."
+            - text: "20/26 City/Highway MPG Price includes: $1250 - Retail Bonus Cash. Exp. 03/31/2026 $2000 - Retail Customer Cash. Exp. 03/31/2026 $50 - 2025 F-150 SIRIUS VIN Specific Bonus Cash. Exp. 03/31/2026 $500 - 2026 Farm Bureau Recognition Exclusive Cash Reward. Exp. 01/04/2027 $500 - 2026 First Responder Recognition Exclusive Cash Reward. Exp. 01/04/2027 $500 - 2026 Military Recognition Exclusive Cash Reward. Exp. 01/04/2027 $500 - Retail Bonus Cash. Exp. 03/31/2026 $750 - 2026 College Student Recognition Exclusive Cash Reward Pgm. Exp. 01/04/2027 Price includes dealer added accessories."
+        - generic [ref=e883]:
+          - heading "Vehicle Details" [level=2] [ref=e884]
+          - generic [ref=e886]:
+            - generic [ref=e887] [cursor=pointer]:
+              - generic [ref=e888]:
+                - heading "Exterior" [level=3] [ref=e889]:
+                  - img [ref=e890]
+                  - text: Exterior
+                - generic [ref=e892]: 
+              - list [ref=e894]:
+                - listitem [ref=e895]: Regular Box Style
+                - listitem [ref=e896]: Steel Spare Wheel
+                - listitem [ref=e897]: Full-Size Spare Tire Stored Underbody w/Crankdown
+                - listitem [ref=e898]: Body-Colored Front Bumper w/Body-Colored Rub Strip/Fascia Accent
+                - listitem [ref=e899]: Body-Colored Rear Step Bumper
+                - listitem [ref=e900]: Black Side Windows Trim
+                - listitem [ref=e901]: Black Door Handles
+                - listitem [ref=e902]: Fixed Rear Window w/Defroster
+                - listitem [ref=e903]: Variable Intermittent Wipers
+                - listitem [ref=e904]: Deep Tinted Glass
+                - listitem [ref=e905]: Aluminum Panels
+                - listitem [ref=e906]: Black Grille
+                - listitem [ref=e907]: Tailgate Rear Cargo Access
+                - listitem [ref=e908]: Integrated Storage
+                - listitem [ref=e909]: Ford Co-Pilot360 - Autolamp Auto On/Off Reflector Led Low/High Beam Auto High-Beam Daytime Running Lights Preference Setting Headlamps w/Delay-Off
+                - listitem [ref=e910]: Cargo Lamp w/High Mount Stop Light
+                - listitem [ref=e911]: Perimeter/Approach Lights
+                - listitem [ref=e912]: Headlights-Automatic Highbeams
+            - generic [ref=e913] [cursor=pointer]:
+              - generic [ref=e914]:
+                - heading "Interior" [level=3] [ref=e915]:
+                  - img [ref=e916]
+                  - text: Interior
+                - generic [ref=e918]: 
+              - list [ref=e919]:
+                - listitem [ref=e920]: Driver Seat
+                - listitem [ref=e921]: Passenger Seat
+                - listitem [ref=e922]: 60-40 Folding Split-Bench Front Facing Fold-Up Cushion Rear Seat
+                - listitem [ref=e923]: Manual Tilt/Telescoping Steering Column
+                - listitem [ref=e924]: FordPass Connect 5G Mobile Hotspot Internet Access
+                - listitem [ref=e925]: Front Cupholder
+                - listitem [ref=e926]: Rear Cupholder
+                - listitem [ref=e927]: Compass
+                - listitem [ref=e928]: Cruise Control w/Steering Wheel Controls
+                - listitem [ref=e929]: Manual Air Conditioning
+                - listitem [ref=e930]: "HVAC -inc: Underseat Ducts and Console Ducts"
+                - listitem [ref=e931]: Locking Glove Box
+                - listitem [ref=e932]: "Interior Trim -inc: Cabback Insulator and Chrome Interior Accents"
+                - listitem [ref=e933]: Full Cloth Headliner
+                - listitem [ref=e934]: Urethane Gear Shifter Material
+                - listitem [ref=e935]: Day-Night Rearview Mirror
+                - listitem [ref=e936]: Passenger Visor Vanity Mirror
+                - listitem [ref=e937]: Full Floor Console w/Locking Storage, Mini Overhead Console w/Storage and 1 12V DC Power Outlet
+                - listitem [ref=e938]: Front Map Lights
+                - listitem [ref=e939]: Fade-To-Off Interior Lighting
+                - listitem [ref=e940]: Cab Mounted Cargo Lights
+                - listitem [ref=e941]: Instrument Panel Bin, Dashboard Storage, Interior Concealed Storage, Driver / Passenger And Rear Door Bins
+                - listitem [ref=e942]: Delayed Accessory Power
+                - listitem [ref=e943]: Driver Information Center
+                - listitem [ref=e944]: Redundant Digital Speedometer
+                - listitem [ref=e945]: Outside Temp Gauge
+                - listitem [ref=e946]: Digital/Analog Appearance
+                - listitem [ref=e947]: Front Center Armrest
+                - listitem [ref=e948]: Seats w/Cloth Back Material
+                - listitem [ref=e949]: Manual Adjustable Front Head Restraints and Manual Adjustable Rear Head Restraints
+                - listitem [ref=e950]: 2 Seatback Storage Pockets
+                - listitem [ref=e951]: Perimeter Alarm
+                - listitem [ref=e952]: Securilock Anti-Theft Ignition (pats) Immobilizer
+                - listitem [ref=e953]: Air Filtration
+                - listitem [ref=e954]: 1 12V DC Power Outlet
+            - generic [ref=e955] [cursor=pointer]:
+              - generic [ref=e956]:
+                - heading "Entertainment" [level=3] [ref=e957]:
+                  - img [ref=e958]
+                  - text: Entertainment
+                - generic [ref=e960]: 
+              - list [ref=e961]:
+                - listitem [ref=e962]: Streaming Audio
+                - listitem [ref=e963]: Fixed Antenna
+                - listitem [ref=e964]: 6 Speakers
+                - listitem [ref=e965]: 2 LCD Monitors In The Front
+            - generic [ref=e966] [cursor=pointer]:
+              - generic [ref=e967]:
+                - heading "Mechanical" [level=3] [ref=e968]:
+                  - img [ref=e969]
+                  - text: Mechanical
+                - generic [ref=e971]: 
+              - list [ref=e972]:
+                - listitem [ref=e973]: "Engine: 2.7L V6 EcoBoost -inc: auto start-stop technology"
+                - listitem [ref=e974]: 3.55 Axle Ratio
+                - listitem [ref=e975]: "GVWR: 6,426 lbs Payload Package"
+                - listitem [ref=e976]: 50 State Emissions System
+                - listitem [ref=e977]: Transmission w/Driver Selectable Mode
+                - listitem [ref=e978]: Rear-Wheel Drive
+                - listitem [ref=e979]: 200 Amp Alternator
+                - listitem [ref=e980]: 70-Amp/Hr 760CCA Maintenance-Free Battery w/Run Down Protection
+                - listitem [ref=e981]: "Class IV Towing Equipment -inc: Hitch and Trailer Sway Control"
+                - listitem [ref=e982]: Trailer Wiring Harness
+                - listitem [ref=e983]: 1685# Maximum Payload
+                - listitem [ref=e984]: HD Gas-Pressurized Shock Absorbers
+                - listitem [ref=e985]: Front Anti-Roll Bar
+                - listitem [ref=e986]: Electric Power-Assist Steering
+                - listitem [ref=e987]: Single Stainless Steel Exhaust
+                - listitem [ref=e988]: 36 Gal. Fuel Tank
+                - listitem [ref=e989]: Double Wishbone Front Suspension w/Coil Springs
+                - listitem [ref=e990]: Solid Axle Rear Suspension w/Leaf Springs
+                - listitem [ref=e991]: 4-Wheel Disc Brakes w/4-Wheel ABS, Front And Rear Vented Discs, Brake Assist, Hill Hold Control and Electric Parking Brake
+            - generic [ref=e992] [cursor=pointer]:
+              - generic [ref=e993]:
+                - heading "Safety" [level=3] [ref=e994]:
+                  - img [ref=e995]
+                  - text: Safety
+                - generic [ref=e1002]: 
+              - list [ref=e1003]:
+                - listitem [ref=e1004]: Side Impact Beams
+                - listitem [ref=e1005]: Dual Stage Driver And Passenger Seat-Mounted Side Airbags
+                - listitem [ref=e1006]: Rear Parking Sensors
+                - listitem [ref=e1007]: BLIS (Blind Spot Information System) Blind Spot
+                - listitem [ref=e1008]: PCA with AEB and Intersection Assist
+                - listitem [ref=e1009]: Cross-Traffic Alert with Reverse Brake Assist
+                - listitem [ref=e1010]: Collision Mitigation-Front
+                - listitem [ref=e1011]: Driver Monitoring-Alert
+                - listitem [ref=e1012]: Evasion Assist
+                - listitem [ref=e1013]: Tire Specific Low Tire Pressure Warning
+                - listitem [ref=e1014]: Dual Stage Driver And Passenger Front Airbags
+                - listitem [ref=e1015]: Airbag Occupancy Sensor
+                - listitem [ref=e1016]: Safety Canopy System Curtain 1st And 2nd Row Airbags
+                - listitem [ref=e1017]: "Outboard Front Lap And Shoulder Safety Belts -inc: Rear Center 3 Point, Height Adjusters and Pretensioners"
+                - listitem [ref=e1018]: Rear Child Safety Locks
+                - listitem [ref=e1019]: Reverse Camera Back-Up Camera
+            - generic [ref=e1020] [cursor=pointer]:
+              - generic [ref=e1021]:
+                - heading "Tech Specs" [level=3] [ref=e1022]:
+                  - img [ref=e1023]
+                  - text: Tech Specs
+                - generic [ref=e1025]: 
+              - list [ref=e1026]:
+                - listitem [ref=e1027]: "Vehicle Name: Ford F-150"
+                - listitem [ref=e1028]: "Body Style: SuperCrew Cab"
+                - listitem [ref=e1029]: "Body Code: T"
+                - listitem [ref=e1030]: "Drivetrain: Rear Wheel Drive"
+                - listitem [ref=e1031]: "Passenger Capacity: 5"
+                - listitem [ref=e1032]: "Base Curb Weight: 4687"
+                - listitem [ref=e1033]: "Gross Axle Wt Rating - Front: 3375"
+                - listitem [ref=e1034]: "Gross Axle Wt Rating - Rear: 3400"
+                - listitem [ref=e1035]: "Curb Weight - Front: 2696"
+                - listitem [ref=e1036]: "Curb Weight - Rear: 1991"
+                - listitem [ref=e1037]: "Gross Vehicle Weight Rating Cap: 6426"
+                - listitem [ref=e1038]: "Fuel Economy Est-Combined: 22 (2024)"
+                - listitem [ref=e1039]: "EPA Fuel Economy Est - City: 20 (2024)"
+                - listitem [ref=e1040]: "EPA Fuel Economy Est - Hwy: 26 (2024)"
+                - listitem [ref=e1041]: "Gross Combined Wt Rating: 12800"
+                - listitem [ref=e1042]: "Dead Weight Hitch - Max Trailer Wt.: 5000"
+                - listitem [ref=e1043]: "Dead Weight Hitch - Max Tongue Wt.: 500"
+                - listitem [ref=e1044]: "Wt Distributing Hitch - Max Trailer Wt.: 7600"
+                - listitem [ref=e1045]: "Wt Distributing Hitch - Max Tongue Wt.: 760"
+                - listitem [ref=e1046]: "Fifth Wheel Hitch - Max Trailer Wt.: 7400"
+                - listitem [ref=e1047]: "Fifth Wheel Hitch - Max Tongue Wt.: 1850"
+                - listitem [ref=e1048]: "Maximum Trailering Capacity: 7600"
+                - listitem [ref=e1049]: "Engine Order Code: 99P"
+                - listitem [ref=e1050]: "Engine Type: Twin Turbo Regular Unleaded V-6"
+                - listitem [ref=e1051]: "Displacement: 2.7 L/164"
+                - listitem [ref=e1052]: "Fuel System: Port/Direct Injection"
+                - listitem [ref=e1053]: "SAE Net Horsepower @ RPM: 325 @ 5000"
+                - listitem [ref=e1054]: "SAE Net Torque @ RPM: 400 @ 3500"
+                - listitem [ref=e1055]: "Trans Order Code: 44G"
+                - listitem [ref=e1056]: "Trans Type: 10"
+                - listitem [ref=e1057]: "Trans Description Cont.: Automatic w/OD"
+                - listitem [ref=e1058]: "Trans Description Cont. Again:"
+                - listitem [ref=e1059]: "First Gear Ratio (:1): 4.70"
+                - listitem [ref=e1060]: "Second Gear Ratio (:1): 2.98"
+                - listitem [ref=e1061]: "Third Gear Ratio (:1): 2.15"
+                - listitem [ref=e1062]: "Fourth Gear Ratio (:1): 1.77"
+                - listitem [ref=e1063]: "Fifth Gear Ratio (:1): 1.52"
+                - listitem [ref=e1064]: "Sixth Gear Ratio (:1): 1.27"
+                - listitem [ref=e1065]: "Reverse Ratio (:1): 4.87"
+                - listitem [ref=e1066]: "Trans PTO Access: No"
+                - listitem [ref=e1067]: "Transfer Case Model: None"
+                - listitem [ref=e1068]: "Transfer Case Power Take Off: No"
+                - listitem [ref=e1069]: "Cold Cranking Amps @ 0° F (Primary): 760"
+                - listitem [ref=e1070]: "Cold Cranking Amps @ 0° F (2nd): 760"
+                - listitem [ref=e1071]: "Tons/yr of CO2 Emissions @ 15K mi/year: 8.1 (2024)"
+                - listitem [ref=e1072]: "Maximum Alternator Capacity (amps): 200"
+                - listitem [ref=e1073]: "Engine Oil Cooler: None"
+                - listitem [ref=e1074]: "Suspension Type - Front: Double Wishbone"
+                - listitem [ref=e1075]: "Suspension Type - Rear: Leaf"
+                - listitem [ref=e1076]: "Spring Capacity - Front: 3375"
+                - listitem [ref=e1077]: "Spring Capacity - Rear: 3500"
+                - listitem [ref=e1078]: "Axle Type - Front: Independent"
+                - listitem [ref=e1079]: "Axle Type - Rear: Rigid Axle"
+                - listitem [ref=e1080]: "Axle Capacity - Front: 4050"
+                - listitem [ref=e1081]: "Axle Capacity - Rear: 3800"
+                - listitem [ref=e1082]: "Axle Ratio (:1) - Front: 3.55"
+                - listitem [ref=e1083]: "Axle Ratio (:1) - Rear: 3.55"
+                - listitem [ref=e1084]: "Front Tire Order Code:"
+                - listitem [ref=e1085]: "Rear Tire Order Code:"
+                - listitem [ref=e1086]: "Spare Tire Order Code:"
+                - listitem [ref=e1087]: "Front Tire Size: P265/60SR18"
+                - listitem [ref=e1088]: "Rear Tire Size: P265/60SR18"
+                - listitem [ref=e1089]: "Spare Tire Size: Full-Size"
+                - listitem [ref=e1090]: "Front Tire Capacity: 4050"
+                - listitem [ref=e1091]: "Rear Tire Capacity: 4150"
+                - listitem [ref=e1092]: "Front Wheel Size: 18 X 7.5"
+                - listitem [ref=e1093]: "Rear Wheel Size: 18 X 7.5"
+                - listitem [ref=e1094]: "Spare Wheel Size: Full-Size"
+                - listitem [ref=e1095]: "Front Wheel Material: Aluminum"
+                - listitem [ref=e1096]: "Rear Wheel Material: Aluminum"
+                - listitem [ref=e1097]: "Spare Wheel Material: Steel"
+                - listitem [ref=e1098]: "Steering Type: Rack-Pinion"
+                - listitem [ref=e1099]: "Turning Diameter - Curb to Curb: 47.8"
+                - listitem [ref=e1100]: "Brake Type: 4-Wheel Disc"
+                - listitem [ref=e1101]: "Brake ABS System: 4-Wheel"
+                - listitem [ref=e1102]: "Brake ABS System (Second Line): 4-Wheel"
+                - listitem [ref=e1103]: "Disc - Front (Yes or ): Yes"
+                - listitem [ref=e1104]: "Disc - Rear (Yes or ): Yes"
+                - listitem [ref=e1105]: "Front Brake Rotor Diam x Thickness: 13.8"
+                - listitem [ref=e1106]: "Rear Brake Rotor Diam x Thickness: 13.2"
+                - listitem [ref=e1107]: "Drum - Rear (Yes or ):"
+                - listitem [ref=e1108]: "Rear Drum Diam x Width:"
+                - listitem [ref=e1109]: "Fuel Tank Capacity, Approx: 36"
+                - listitem [ref=e1110]: "Front Head Room: 40.8"
+                - listitem [ref=e1111]: "Front Leg Room: 43.9"
+                - listitem [ref=e1112]: "Front Shoulder Room: 66.7"
+                - listitem [ref=e1113]: "Front Hip Room: 62.5"
+                - listitem [ref=e1114]: "Second Head Room: 40.4"
+                - listitem [ref=e1115]: "Second Leg Room: 43.6"
+                - listitem [ref=e1116]: "Second Shoulder Room: 66"
+                - listitem [ref=e1117]: "Second Hip Room: 62.6"
+                - listitem [ref=e1118]: "Wheelbase: 145"
+                - listitem [ref=e1119]: "Length, Overall: 231.7"
+                - listitem [ref=e1120]: "Width, Max w/o mirrors: 79.9"
+                - listitem [ref=e1121]: "Height, Overall: 75.6"
+                - listitem [ref=e1122]: "Overhang, Front: 37.6"
+                - listitem [ref=e1123]: "Ground to Top of Load Floor: 32.9"
+                - listitem [ref=e1124]: "Ground Clearance, Front: 8.5"
+                - listitem [ref=e1125]: "Ground Clearance, Rear: 8.5"
+                - listitem [ref=e1126]: "Cargo Box Length @ Floor: 66"
+                - listitem [ref=e1127]: "Cargo Box Width @ Top, Rear: 65.2"
+                - listitem [ref=e1128]: "Cargo Box Width @ Floor: 65.2"
+                - listitem [ref=e1129]: "Cargo Box Width @ Wheelhousings: 50.6"
+                - listitem [ref=e1130]: "Cargo Box (Area) Height: 21.4"
+                - listitem [ref=e1131]: "Tailgate Width: 60.3"
+                - listitem [ref=e1132]: "Cargo Volume: 52.8"
+                - listitem [ref=e1133]: "Seventh Gear Ratio (:1): 1.00"
+                - listitem [ref=e1134]: "Eighth Gear Ratio (:1): 0.85"
+                - listitem [ref=e1135]: "Model Group: F-Series Pickups"
+                - listitem [ref=e1136]: "Vehicle Segment: Large Pick-up"
+                - listitem [ref=e1137]: "Vehicle Type: SuperCrew Cab"
+                - listitem [ref=e1138]: "Body Cab Style: Crew Cab"
+                - listitem [ref=e1139]: "Bed Style: regular"
+                - listitem [ref=e1140]: "Engine Displacement Units: 2.7"
+                - listitem [ref=e1141]: "Engine Camshaft: DOHC"
+                - listitem [ref=e1142]: "Engine Block Type: iron"
+                - listitem [ref=e1143]: "Engine Cylinder Count: 6"
+                - listitem [ref=e1144]: "Engine Valve Count: 4"
+                - listitem [ref=e1145]: "Country of Origin: United States Ford"
+            - generic [ref=e1146] [cursor=pointer]:
+              - generic [ref=e1147]:
+                - heading "Details" [level=3] [ref=e1148]:
+                  - img [ref=e1149]
+                  - text: Details
+                - generic [ref=e1151]: 
+              - list [ref=e1152]:
+                - listitem [ref=e1153]: Equipment Group 200A Mid
+                - listitem [ref=e1154]: "GVWR: 6,426 lbs Payload Package"
+                - listitem [ref=e1155]: 6 Speakers
+                - listitem [ref=e1156]: "AM/FM radio: SiriusXM with 360L"
+                - listitem [ref=e1157]: Radio data system
+                - listitem [ref=e1158]: "Radio: AM/FM Stereo w/SiriusXM 360L"
+                - listitem [ref=e1159]: Air Conditioning
+                - listitem [ref=e1160]: Rear window defroster
+                - listitem [ref=e1161]: Power steering
+                - listitem [ref=e1162]: Power windows
+                - listitem [ref=e1163]: Remote keyless entry
+                - listitem [ref=e1164]: Steering wheel mounted audio controls
+                - listitem [ref=e1165]: Traction control
+                - listitem [ref=e1166]: 4-Wheel Disc Brakes
+                - listitem [ref=e1167]: ABS brakes
+                - listitem [ref=e1168]: Dual front impact airbags
+                - listitem [ref=e1169]: Dual front side impact airbags
+                - listitem [ref=e1170]: "Emergency communication system: SYNC 4 911 Assist"
+                - listitem [ref=e1171]: Front anti-roll bar
+                - listitem [ref=e1172]: Front wheel independent suspension
+                - listitem [ref=e1173]: Low tire pressure warning
+                - listitem [ref=e1174]: Occupant sensing airbag
+                - listitem [ref=e1175]: Overhead airbag
+                - listitem [ref=e1176]: Brake assist
+                - listitem [ref=e1177]: Electronic Stability Control
+                - listitem [ref=e1178]: Rear Parking Sensors
+                - listitem [ref=e1179]: Auto High-beam Headlights
+                - listitem [ref=e1180]: Delay-off headlights
+                - listitem [ref=e1181]: Fully automatic headlights
+                - listitem [ref=e1182]: Panic alarm
+                - listitem [ref=e1183]: Security system
+                - listitem [ref=e1184]: Speed control
+                - listitem [ref=e1185]: "Bumpers: body-color"
+                - listitem [ref=e1186]: Front License Plate Bracket
+                - listitem [ref=e1187]: Heated door mirrors
+                - listitem [ref=e1188]: LED Fog Lamps w/LED Cornering Lamp
+                - listitem [ref=e1189]: Power door mirrors
+                - listitem [ref=e1190]: Rear step bumper
+                - listitem [ref=e1191]: Compass
+                - listitem [ref=e1192]: Driver door bin
+                - listitem [ref=e1193]: Front reading lights
+                - listitem [ref=e1194]: Illuminated entry
+                - listitem [ref=e1195]: Outside temperature display
+                - listitem [ref=e1196]: Overhead console
+                - listitem [ref=e1197]: Passenger vanity mirror
+                - listitem [ref=e1198]: SYNC 4 w/Enhanced Voice Recognition
+                - listitem [ref=e1199]: Tachometer
+                - listitem [ref=e1200]: Telescoping steering wheel
+                - listitem [ref=e1201]: Tilt steering wheel
+                - listitem [ref=e1202]: Trip computer
+                - listitem [ref=e1203]: Unique Sport Cloth 40/Console/40 Front-Seats
+                - listitem [ref=e1204]: Voltmeter
+                - listitem [ref=e1205]: Front Bucket Seats
+                - listitem [ref=e1206]: Front Center Armrest
+                - listitem [ref=e1207]: Split folding rear seat
+                - listitem [ref=e1208]: Passenger door bin
+                - listitem [ref=e1209]: Alloy wheels
+                - listitem [ref=e1210]: "Wheels: 18\" Gloss Black"
+                - listitem [ref=e1211]: "Wheels: 20\" Dark Gray w/Machined Aluminum"
+                - listitem [ref=e1212]: Variably intermittent wipers
+                - listitem [ref=e1213]: 3.55 Axle Ratio
+                - listitem [ref=e1214]: "**AUTO CHECK REPORT AVAILABLE ON EACH VEHICLE**"
+                - listitem [ref=e1215]: NITROFILL TIRES
+                - listitem [ref=e1216]: Driver Air Bag
+                - listitem [ref=e1217]: Passenger Air Bag
+                - listitem [ref=e1218]: Front Side Air Bag
+                - listitem [ref=e1219]: Front Head Air Bag
+                - listitem [ref=e1220]: Rear Head Air Bag
+                - listitem [ref=e1221]: A/C
+                - listitem [ref=e1222]: Security System
+                - listitem [ref=e1223]: AM/FM Stereo
+                - listitem [ref=e1224]: ABS
+                - listitem [ref=e1225]: Cruise Control
+                - listitem [ref=e1226]: Rear Defrost
+                - listitem [ref=e1227]: Child Safety Locks
+                - listitem [ref=e1228]: Rear Wheel Drive
+                - listitem [ref=e1229]: V6 Cylinder Engine
+                - listitem [ref=e1230]: Turbocharged
+                - listitem [ref=e1231]: Floor Mats
+                - listitem [ref=e1232]: Gasoline Fuel
+                - listitem [ref=e1233]: Daytime Running Lights
+                - listitem [ref=e1234]: Keyless Entry
+                - listitem [ref=e1235]: Power Door Locks
+                - listitem [ref=e1236]: Heated Mirrors
+                - listitem [ref=e1237]: Power Mirror(s)
+                - listitem [ref=e1238]: Pass-Through Rear Seat
+                - listitem [ref=e1239]: Cloth Seats
+                - listitem [ref=e1240]: Bucket Seats
+                - listitem [ref=e1241]: Power Steering
+                - listitem [ref=e1242]: Adjustable Steering Wheel
+                - listitem [ref=e1243]: Conventional Spare Tire
+                - listitem [ref=e1244]: Traction Control
+                - listitem [ref=e1245]: Aluminum Wheels
+                - listitem [ref=e1246]: Power Windows
+                - listitem [ref=e1247]: Intermittent Wipers
+                - listitem [ref=e1248]: A/T
+                - listitem [ref=e1249]: Satellite Radio
+                - listitem [ref=e1250]: MP3 Capability
+                - listitem [ref=e1251]: Privacy Glass
+                - listitem [ref=e1252]: Variable Speed Intermittent Wipers
+                - listitem [ref=e1253]: Steering Wheel Audio Controls
+                - listitem [ref=e1254]: Immobilizer
+                - listitem [ref=e1255]: Automatic Headlights
+                - listitem [ref=e1256]: Passenger Vanity Mirror
+                - listitem [ref=e1257]: Rear Parking Aid
+                - listitem [ref=e1258]: Driver Adjustable Lumbar
+                - listitem [ref=e1259]: Transmission w/Dual Shift Mode
+                - listitem [ref=e1260]: Tow Hitch
+                - listitem [ref=e1261]: Tire Pressure Monitor
+                - listitem [ref=e1262]: Trip Computer
+                - listitem [ref=e1263]: Bluetooth Connection
+                - listitem [ref=e1264]: Telematics
+                - listitem [ref=e1265]: Back-Up Camera
+                - listitem [ref=e1266]: Stability Control
+                - listitem [ref=e1267]: Brake Assist
+                - listitem [ref=e1268]: Auxiliary Audio Input
+                - listitem [ref=e1269]: Rear Bench Seat
+                - listitem [ref=e1270]: Passenger Air Bag Sensor
+                - listitem [ref=e1271]: Blind Spot Monitor
+                - listitem [ref=e1272]: Lane Departure Warning
+                - listitem [ref=e1273]: Cross-Traffic Alert
+                - listitem [ref=e1274]: Lane Keeping Assist
+                - listitem [ref=e1275]: WiFi Hotspot
+                - listitem [ref=e1276]: 10-Speed A/T
+                - listitem [ref=e1277]: Smart Device Integration
+                - listitem [ref=e1278]: Front Collision Mitigation
+                - listitem [ref=e1279]: Automatic Highbeams
+                - listitem [ref=e1280]: LED Headlights
+                - listitem [ref=e1281]: Requires Subscription
+                - listitem [ref=e1282]: Driver Monitoring
+                - listitem [ref=e1283]: Evasion Assist
+                - listitem [ref=e1284]: Rear Collision Mitigation
+        - generic [ref=e1287]:
+          - heading "Premium Options & Packages" [level=2] [ref=e1288]
+          - generic [ref=e1291]:
+            - generic [ref=e1292]: Rear Wheel Drive
+            - generic [ref=e1293]: Back-Up Camera
+            - generic [ref=e1294]: Blind Spot Monitor
+            - generic [ref=e1295]: Bluetooth Connection
+            - generic [ref=e1296]: LED Fog Lamps w/LED Cornering Lamp
+            - generic [ref=e1297]: "Interior Trim -inc: Cabback Insulator and Chrome Interior Accents"
+            - generic [ref=e1298]: Remote keyless entry
+            - generic [ref=e1299]: Lane Departure Warning
+            - generic [ref=e1300]: Rear Parking Sensors
+            - generic [ref=e1301]: Satellite Radio
+            - generic [ref=e1302]: Dual Stage Driver And Passenger Seat-Mounted Side Airbags
+            - generic [ref=e1303]: Tow Hitch
+            - generic [ref=e1304]: WiFi Hotspot
+            - generic [ref=e1305]:
+              - generic [ref=e1306] [cursor=pointer]:
+                - generic [ref=e1307]: "ENGINE: 2.7L V6 ECOBOOST"
+                - generic [ref=e1308]: "-1000"
+                - generic [ref=e1310]: 
+              - list [ref=e1311]:
+                - listitem [ref=e1312]: Auto start-stop technology
+            - generic [ref=e1313]:
+              - generic [ref=e1314] [cursor=pointer]:
+                - generic [ref=e1315]: PRIMARY PAINT
+                - generic [ref=e1317]: 
+              - list [ref=e1318]:
+                - listitem [ref=e1319]: AGATE BLACK METALLIC
+            - generic [ref=e1320]:
+              - generic [ref=e1321] [cursor=pointer]:
+                - generic [ref=e1322]: "TRANSMISSION: ELECTRONIC 10-SPEED AUTOMATIC"
+                - generic [ref=e1324]: 
+              - list [ref=e1325]:
+                - listitem [ref=e1326]: "SelectShift w/progressive range select and selectable drive modes: normal"
+                - listitem [ref=e1327]: ECO
+                - listitem [ref=e1328]: sport
+                - listitem [ref=e1329]: tow/haul
+                - listitem [ref=e1330]: slippery and trail
+        - generic [ref=e1333]:
+          - heading "Payment Options" [level=2] [ref=e1334]
+          - list [ref=e1336]:
+            - listitem [ref=e1337]:
+              - generic [ref=e1338]:
+                - heading "Cash" [level=3] [ref=e1339]
+                - paragraph [ref=e1340]: $41,750
+                - paragraph [ref=e1341]: "MSRP: $48,080"
+              - link "Get E-Price" [ref=e1342] [cursor=pointer]:
+                - /url: "#modal__main-form"
+        - generic [ref=e1345]:
+          - heading "Other Vehicles You May Like" [level=2] [ref=e1346]
+          - generic [ref=e1347]:
+            - generic [ref=e1348]:
+              - link "2025 Ford F-150 STX®" [ref=e1349] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-4x2-supercrew%c2%ae-1ftew2kp1skf10665/
+                - img "2025 Ford F-150 STX®"
+              - generic [ref=e1350]:
+                - generic [ref=e1351]:
+                  - button "Compare" [ref=e1352] [cursor=pointer]:
+                    - img [ref=e1354]
+                    - generic [ref=e1356]: Compare
+                  - button "Save Vehicle" [ref=e1357] [cursor=pointer]:
+                    - img [ref=e1358]
+                - link "2025 Ford F-150 STX® $48,180" [ref=e1361] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-4x2-supercrew%c2%ae-1ftew2kp1skf10665/
+                  - heading "2025 Ford F-150 STX®" [level=3] [ref=e1362]
+                  - paragraph [ref=e1363]: $48,180
+            - generic [ref=e1364]:
+              - link "2026 Ford F-150 STX®" [ref=e1365] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2026-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kp9tkd21831/
+                - img "2026 Ford F-150 STX®"
+              - generic [ref=e1366]:
+                - generic [ref=e1367]:
+                  - button "Compare" [ref=e1368] [cursor=pointer]:
+                    - img [ref=e1370]
+                    - generic [ref=e1372]: Compare
+                  - button "Save Vehicle" [ref=e1373] [cursor=pointer]:
+                    - img [ref=e1374]
+                - link "2026 Ford F-150 STX® $48,330" [ref=e1377] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2026-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kp9tkd21831/
+                  - heading "2026 Ford F-150 STX®" [level=3] [ref=e1378]
+                  - paragraph [ref=e1379]: $48,330
+            - generic [ref=e1380]:
+              - link "2025 Ford F-150 STX®" [ref=e1381] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kp8skf70314/
+                - img "2025 Ford F-150 STX®"
+              - generic [ref=e1382]:
+                - generic [ref=e1383]:
+                  - button "Compare" [ref=e1384] [cursor=pointer]:
+                    - img [ref=e1386]
+                    - generic [ref=e1388]: Compare
+                  - button "Save Vehicle" [ref=e1389] [cursor=pointer]:
+                    - img [ref=e1390]
+                - link "2025 Ford F-150 STX® $45,555" [ref=e1393] [cursor=pointer]:
+                  - /url: https://www.terrebonneford.com/inventory/new-2025-ford-f-150-stx%c2%ae-rwd-supercrew%c2%ae-1ftew2kp8skf70314/
+                  - heading "2025 Ford F-150 STX®" [level=3] [ref=e1394]
+                  - paragraph [ref=e1395]: $45,555
+        - generic [ref=e1400]:
+          - generic [ref=e1401]:
+            - generic [ref=e1402]:
+              - heading "Get Directions" [level=2] [ref=e1403]
+              - textbox "Enter starting address" [ref=e1404]
+              - paragraph [ref=e1405]: Please enter an address
+              - paragraph [ref=e1406]: to 339 St. Charles Street - Houma, LA 70360
+            - link "Get Directions" [ref=e1407] [cursor=pointer]:
+              - /url: "#"
+          - generic [ref=e1408]:
+            - generic [ref=e1409]:
+              - heading "Contact Us" [level=2] [ref=e1410]
+              - link " (888) 686-3327" [ref=e1411] [cursor=pointer]:
+                - /url: tel:+18886863327
+                - generic [ref=e1412]: 
+                - text: (888) 686-3327
+            - link "Message Us" [ref=e1413] [cursor=pointer]:
+              - /url: "#modal__gform_3"
+        - generic [ref=e1417]:
+          - paragraph [ref=e1418]:
+            - strong [ref=e1419]: "Disclaimer:"
+          - paragraph [ref=e1420]: Although every reasonable effort has been made to ensure the accuracy of the information contained on this site, absolute accuracy cannot be guaranteed. This site, and all information and materials appearing on it, are presented to the user “as is” without warranty of any kind, either express or implied. All vehicles are subject to prior sale. Price does not include applicable tax, title, and license charges. Vehicles shown at different locations are not currently in our inventory (Not in Stock) but can be made available to you at our location within a reasonable date from the time of your request, not to exceed one week.
+    - contentinfo [ref=e1422]:
+      - generic [ref=e1425]:
+        - heading "connect with us" [level=4] [ref=e1427]
+        - generic [ref=e1429]:
+          - link "X" [ref=e1430] [cursor=pointer]:
+            - /url: https://twitter.com/terrebonneford
+            - img [ref=e1431]
+          - link "facebook" [ref=e1433] [cursor=pointer]:
+            - /url: https://www.facebook.com/Terrebonne-Ford-HoumaLa-1496454057321004/
+            - img [ref=e1434]
+          - link "youtube" [ref=e1436] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC4cmw2BQURUf80cI0mEWERg/videos
+            - img [ref=e1437]
+      - generic [ref=e1443]:
+        - generic [ref=e1444]:
+          - heading "Inventory" [level=3] [ref=e1445]
+          - list [ref=e1448]:
+            - listitem [ref=e1449]:
+              - link "New Vehicles" [ref=e1450] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/new-vehicles/
+            - listitem [ref=e1451]:
+              - link "Used Vehicles" [ref=e1452] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/used-vehicles/
+            - listitem [ref=e1453]:
+              - link "Certified Vehicles" [ref=e1454] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/used-vehicles/certified-pre-owned-vehicles/
+            - listitem [ref=e1455]:
+              - link "Vehicles Under $10K" [ref=e1456] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/used-vehicles/priced-under-10k/
+        - generic [ref=e1457]:
+          - heading "Service" [level=3] [ref=e1458]
+          - list [ref=e1461]:
+            - listitem [ref=e1462]:
+              - link "Service Center" [ref=e1463] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/service/
+            - listitem [ref=e1464]:
+              - link "Service Appointment" [ref=e1465] [cursor=pointer]:
+                - /url: https://api.connectcdk.com/api/nc-cosa-consumer-ui/v1/?subscriptionId=&cid=143071
+            - listitem [ref=e1466]:
+              - link "Service Specials" [ref=e1467] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/service/service-specials/
+            - listitem [ref=e1468]:
+              - link "Parts Center" [ref=e1469] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/parts/
+        - generic [ref=e1470]:
+          - heading "Finance" [level=3] [ref=e1471]
+          - list [ref=e1474]:
+            - listitem [ref=e1475]:
+              - link "Finance Center" [ref=e1476] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/finance/
+            - listitem [ref=e1477]:
+              - link "Apply for Financing" [ref=e1478] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/finance/apply-for-financing/
+            - listitem [ref=e1479]:
+              - link "Value Your Trade" [ref=e1480] [cursor=pointer]:
+                - /url: https://clients.purecars.com/trade/ui/1570c61f-1928-49f2-b658-27a0dd6b5aaa
+            - listitem [ref=e1481]:
+              - link "Payment Calculator" [ref=e1482] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/payment-calculator/
+        - generic [ref=e1483]:
+          - heading "About" [level=3] [ref=e1484]
+          - list [ref=e1487]:
+            - listitem [ref=e1488]:
+              - link "Hours" [ref=e1489] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/contact-us/
+            - listitem [ref=e1490]:
+              - link "Contact" [ref=e1491] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/contact-us/
+            - listitem [ref=e1492]:
+              - link "About Us" [ref=e1493] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/about-us/
+            - listitem [ref=e1494]:
+              - link "Get Directions" [ref=e1495] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/contact-us/
+      - generic [ref=e1498]:
+        - navigation [ref=e1502]:
+          - list [ref=e1503]:
+            - listitem [ref=e1504]:
+              - link "Contact Us" [ref=e1505] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/contact-us/
+            - listitem [ref=e1506]:
+              - link "Sitemap" [ref=e1507] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=e1508]:
+              - link "Terms of Use" [ref=e1509] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/terms-of-use/
+            - listitem [ref=e1510]:
+              - link "Definitions & Disclosures" [ref=e1511] [cursor=pointer]:
+                - /url: /definitions-disclosures/
+            - listitem [ref=e1512]:
+              - link "Privacy Policy" [ref=e1513] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/privacy-policy/
+            - listitem [ref=e1514]:
+              - link "Privacy Requests" [ref=e1515] [cursor=pointer]:
+                - /url: https://www.terrebonneford.com/privacy-requests/
+            - listitem [ref=e1516]:
+              - link "Privacy Policy" [ref=e1517] [cursor=pointer]:
+                - /url: /privacy-policy
+            - listitem [ref=e1518]:
+              - link "AdChoices" [ref=e1519] [cursor=pointer]:
+                - /url: https://www.forddirect.com/adchoices
+                - img "AdChoices" [ref=e1520]
+            - listitem [ref=e1521]:
+              - link "AudioEye" [ref=e1522] [cursor=pointer]:
+                - /url: https://customer-portal.audioeye.com/accessibility-statement.html
+        - link [ref=e1525] [cursor=pointer]:
+          - /url: https://www.terrebonneford.com
+          - figure [ref=e1526]:
+            - img "Ford Logo" [ref=e1527]
+      - paragraph [ref=e1532]: Although every reasonable effort has been made to ensure the accuracy of the information contained on this site, absolute accuracy cannot be guaranteed. This site, and all information and materials appearing on it, are presented to the user "as is" without warranty of any kind, either express or implied. All vehicles are subject to prior sale. Price does not include applicable tax, title, and license charges. ‡Vehicles shown at different locations are not currently in our inventory (Not in Stock) but can be made available to you at our location within a reasonable date from the time of your request, not to exceed one week.
+    - generic [ref=e1536]:
+      - link [ref=e1537] [cursor=pointer]:
+        - /url: "#ab-modal--vehicle-search"
+        - generic [ref=e1538]:
+          - img
+          - generic [ref=e1539]: Search
+      - link [ref=e1540] [cursor=pointer]:
+        - /url: "#ab-modal--contactUs"
+        - generic [ref=e1541]:
+          - img
+          - generic [ref=e1542]: Contact Us
+      - button "Explore your accessibility options" [disabled]:
+        - generic "Explore your accessibility options":
+          - img
+      - button "Open user profile menu" [ref=e1543] [cursor=pointer]:
+        - generic [ref=e1544]:
+          - img [ref=e1545]
+          - generic [ref=e1548]: My Profile
+    - generic: 
+  - img [ref=e1549]
+  - img [ref=e1550]
+  - dialog [ref=e1554]:
+    - generic [ref=e1558]:
+      - generic [ref=e1559]:
+        - generic [ref=e1560]: Vehicle Details
+        - img "New 2025 Ford F-150 STX®" [ref=e1561]
+        - list [ref=e1562]:
+          - listitem [ref=e1563]:
+            - strong [ref=e1564]: "Name:"
+            - text: New 2025 Ford F-150 STX®
+          - listitem [ref=e1565]:
+            - strong [ref=e1566]: "Make:"
+            - text: Ford
+          - listitem [ref=e1567]:
+            - strong [ref=e1568]: "Model:"
+            - text: F-150
+          - listitem [ref=e1569]:
+            - strong [ref=e1570]: "Year:"
+            - text: "2025"
+          - listitem [ref=e1571]:
+            - strong [ref=e1572]: "VIN:"
+            - text: 1FTEW2KPXSKE74958
+          - listitem [ref=e1573]:
+            - strong [ref=e1574]: "Price:"
+            - text: $41,750.00
+          - listitem [ref=e1575]:
+            - strong [ref=e1576]: "Stock Number:"
+            - text: 25T708
+          - listitem [ref=e1577]:
+            - strong [ref=e1578]: "Trim:"
+            - text: STX®
+          - listitem [ref=e1579]:
+            - strong [ref=e1580]: "Schedule:"
+      - generic [ref=e1581]:
+        - button "Information" [ref=e1583] [cursor=pointer]:
+          - img [ref=e1584]
+          - generic [ref=e1586]: Information
+        - generic [ref=e1587]:
+          - generic [ref=e1588]:
+            - generic: ← Previous Week
+            - generic [ref=e1589] [cursor=pointer]: Next Week →
+          - generic [ref=e1590]:
+            - generic:
+              - generic: Mon
+              - generic: January 19
+            - generic [ref=e1591] [cursor=pointer]:
+              - generic [ref=e1592]: Tue
+              - generic [ref=e1593]: January 20
+            - generic [ref=e1594] [cursor=pointer]:
+              - generic [ref=e1595]: Wed
+              - generic [ref=e1596]: January 21
+            - generic [ref=e1597] [cursor=pointer]:
+              - generic [ref=e1598]: Thu
+              - generic [ref=e1599]: January 22
+            - generic [ref=e1600] [cursor=pointer]:
+              - generic [ref=e1601]: Fri
+              - generic [ref=e1602]: January 23
+            - generic [ref=e1603] [cursor=pointer]:
+              - generic [ref=e1604]: Sat
+              - generic [ref=e1605]: January 24
+            - generic:
+              - generic: Sun
+              - generic: January 25
+        - generic [ref=e1606]:
+          - generic [ref=e1607]:
+            - text: Select a Time Slot
+            - generic [ref=e1608]: "*"
+            - generic [ref=e1609]:
+              - img [ref=e1610]
+              - text: CST
+          - generic [ref=e1613]:
+            - button "AM" [ref=e1614] [cursor=pointer]
+            - button "PM" [ref=e1615] [cursor=pointer]
+          - generic [ref=e1616]:
+            - button "8:00 AM" [ref=e1617] [cursor=pointer]
+            - button "8:15 AM" [ref=e1618] [cursor=pointer]
+            - button "8:30 AM" [ref=e1619] [cursor=pointer]
+            - button "8:45 AM" [ref=e1620] [cursor=pointer]
+            - button "9:00 AM" [ref=e1621] [cursor=pointer]
+            - button "9:15 AM" [ref=e1622] [cursor=pointer]
+            - button "9:30 AM" [ref=e1623] [cursor=pointer]
+            - button "9:45 AM" [ref=e1624] [cursor=pointer]
+            - button "10:00 AM" [ref=e1625] [cursor=pointer]
+            - button "10:15 AM" [ref=e1626] [cursor=pointer]
+            - button "10:30 AM" [ref=e1627] [cursor=pointer]
+            - button "10:45 AM" [ref=e1628] [cursor=pointer]
+            - button "11:00 AM" [ref=e1629] [cursor=pointer]
+            - button "11:15 AM" [ref=e1630] [cursor=pointer]
+            - button "11:30 AM" [ref=e1631] [cursor=pointer]
+            - button "11:45 AM" [ref=e1632] [cursor=pointer]
+        - generic [ref=e1635]:
+          - generic [ref=e1636]:
+            - generic [ref=e1639]:
+              - generic [ref=e1640]:
+                - text: Name
+                - generic [ref=e1641]: "*"
+              - textbox "Please Enter Your Name" [ref=e1644]
+            - generic [ref=e1647]:
+              - generic [ref=e1648]:
+                - text: Email
+                - generic [ref=e1649]: "*"
+              - textbox "Please Enter Your Email" [ref=e1652]
+          - generic [ref=e1655]:
+            - generic [ref=e1656]:
+              - text: Phone Number
+              - generic [ref=e1657]: "*"
+            - generic [ref=e1659]:
+              - generic [ref=e1662]:
+                - generic [ref=e1663]:
+                  - combobox [ref=e1665]
+                  - generic [ref=e1667]:
+                    - text: US
+                    - img [ref=e1668]
+                - img [ref=e1671] [cursor=pointer]
+              - textbox "Please Enter Your Phone Number" [ref=e1674]
+          - generic [ref=e1677]:
+            - generic [ref=e1678]: Message
+            - textbox "Please Enter Your Message" [ref=e1680]
+        - button "Book Now" [ref=e1682] [cursor=pointer]
+  - alertdialog "Cookie Consent Banner" [ref=e1683]:
+    - generic [ref=e1685]:
+      - generic [ref=e1686]:
+        - generic [ref=e1687]:
+          - generic [ref=e1688]:
+            - generic [ref=e1689]: Your Privacy & Cookies
+            - generic [ref=e1691]:
+              - generic [ref=e1692]: "Language:"
+              - combobox "Language Select" [ref=e1693]:
+                - option "English" [selected]
+                - option "Spanish / Español"
+                - option "English / United Kingdom"
+                - option "Korean / 한국어"
+                - option "Vietnamese / Tiếng Việt Nam"
+                - option "Tagalog / Filipino"
+                - option "Chinese / 中文"
+                - option "German / Deutsch"
+                - option "French / Français"
+          - paragraph [ref=e1695]:
+            - text: We respect consumer privacy rights by letting visitors opt out of third-party tracking cookies and honoring user-enabled global privacy controls, like the GPC signal. This site deploys cookies and similar tracking technologies, including
+            - strong [ref=e1696]: essential cookies
+            - text: for necessary website features, accessibility, and cookie preferences (which may interact directly with, or be shared with, third-party service providers),
+            - strong [ref=e1697]: functional cookies
+            - text: for error reporting and to remember settings and deliver optional functionality (including live-chat and other tools, enabling data collection and sharing with third parties),
+            - strong [ref=e1698]: analytics cookies
+            - text: for measuring website statistics and user interactions, and
+            - strong [ref=e1699]: targeting cookies
+            - text: for cross-site retargeted advertising. By continuing to use this site, you agree to our
+            - link "Privacy Policy" [ref=e1700] [cursor=pointer]:
+              - /url: https://www.terrebonneford.com/privacy-policy
+              - strong [ref=e1701]: Privacy Policy
+            - text: ", which includes an"
+            - strong [ref=e1702]: Arbitration Provision
+            - text: ", and details the categories of personal information we collect, the purposes for which the information is used, and how to manage your privacy rights."
+        - generic [ref=e1703]:
+          - generic [ref=e1706]:
+            - text: Powered by
+            - strong [ref=e1707]:
+              - link "ComplyAuto" [ref=e1708] [cursor=pointer]:
+                - /url: https://complyauto.com
+          - link "Privacy Policy" [ref=e1710] [cursor=pointer]:
+            - /url: https://www.terrebonneford.com/privacy-policy
+      - button "Close Button" [ref=e1712] [cursor=pointer]:
+        - img [ref=e1713]
+```
