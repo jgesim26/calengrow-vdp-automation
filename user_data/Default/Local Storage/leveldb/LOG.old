@@ -1,0 +1,23 @@
+2026/01/31-16:10:35.888 9828 Reusing MANIFEST C:\Users\devr\Documents\Automation\vdp-v2\user_data\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/31-16:10:35.893 9828 Recovering log #19
+2026/01/31-16:10:35.894 9828 Level-0 table #23: started
+2026/01/31-16:10:35.901 9828 Level-0 table #23: 21412 bytes OK
+2026/01/31-16:10:35.905 9828 Delete type=0 #19
+2026/01/31-16:11:35.917 a164 Level-0 table #26: started
+2026/01/31-16:11:35.925 a164 Level-0 table #26: 17718 bytes OK
+2026/01/31-16:11:35.930 a164 Delete type=0 #24
+2026/01/31-16:16:37.558 a164 Level-0 table #28: started
+2026/01/31-16:16:37.568 a164 Level-0 table #28: 23268 bytes OK
+2026/01/31-16:16:37.571 a164 Delete type=0 #25
+2026/01/31-16:21:37.564 a164 Level-0 table #30: started
+2026/01/31-16:21:37.574 a164 Level-0 table #30: 22870 bytes OK
+2026/01/31-16:21:37.577 a164 Delete type=0 #27
+2026/01/31-16:21:37.578 a164 Compacting 4@0 + 1@1 files
+2026/01/31-16:21:37.584 a164 Generated table #31@0: 87 keys, 31857 bytes
+2026/01/31-16:21:37.584 a164 Compacted 4@0 + 1@1 files => 31857 bytes
+2026/01/31-16:21:37.584 a164 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/01/31-16:21:37.585 a164 Delete type=2 #21
+2026/01/31-16:21:37.585 a164 Delete type=2 #23
+2026/01/31-16:21:37.585 a164 Delete type=2 #26
+2026/01/31-16:21:37.586 a164 Delete type=2 #28
+2026/01/31-16:21:37.586 a164 Delete type=2 #30
