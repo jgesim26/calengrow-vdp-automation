@@ -36,7 +36,7 @@ test.describe('VDP Calengrow widget checking', () => {
         test(`VDP Audit: ${domain}`, async ({ }) => {
             console.log(`\n🔍 Checking: ${domain}`);
 
-            const browser = await chromium.launch({ headless: false }); // Headless: false helps bypass some bot checks
+            const browser = await chromium.launch({ headless: false }); 
             const context = await browser.newContext({
                 userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
                 viewport: { width: 1920, height: 1080 }
@@ -45,10 +45,10 @@ test.describe('VDP Calengrow widget checking', () => {
             const page = await context.newPage();
 
             try {
-                // 1. Navigate
+                
                 await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 0 });
 
-                // 2. Clear Cookie Banners (Aggressive)
+               
                 const cookieSelectors = [
                     'button:has-text("Accept All")',
                     'button:has-text("Allow All")',
